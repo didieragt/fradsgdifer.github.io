@@ -115,7 +115,7 @@ async function cargarDatos(fichero) {
     menOpc.style.display = 'block';
 
     try {
-        const response = await fetch('/json/'+fichero);
+        const response = await fetch('json/'+fichero);
 
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
