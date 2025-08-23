@@ -11,15 +11,14 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 10px;
-	font: inherit;
+	font-size: 16px;
 	vertical-align: baseline;
     box-sizing: border-box;
 }
 .main{
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 20% 1fr;
+    grid-template-rows: 5rem 1fr;
 }
 .header{
     display: flex;
@@ -28,70 +27,57 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     top: 0;
 }
 
-#flotante{
-    position: fixed;
-    top: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 3rem;
-}
-#flotante h3{
-    align-self: center;
-    display: none;
-}
 .Imglogo{
-    width: 20rem;
+    width: 12rem;
     height: auto;
     padding: 1rem;
 }
 .Imglogo_footer{
-    width: 15rem;
+    width: 10rem;
     padding: 1rem;
     justify-content: center;
 }
 
 .fra{
-    font-size: 2.3rem;
+    font-size: 1rem;
     padding: 1rem;
     margin-right: 1rem;
     background-color: #CCC;
-    /*opacity: 0.6;*/
     opacity: 0.7;
 }
 h2{
     font-weight: bold;
-    font-size: 4rem;
+    font-size: 2rem;
 }
 .contenedor_form{
     display: flex;
     justify-content: center;
 }
 .form_home{
-    /*: flex;
-    justify-content: center;
-    align-content: center;
-    flex-direction: column;*/
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-bottom: 100%;
-    margin-top: 5rem;
+    /*margin-bottom: 100%;*/
+    margin-top: 0;
     border: 1px solid #000;
-    font-size: 2.3rem;
+    /*font-size: 1.5rem;*/
     padding: 1rem;
     width: 40%;
 }
 .fra select{
-    font-size: 2.3rem;
-    padding: 1rem;
+    font-size: 1.3rem;
+    padding: 0.5rem;
+}
+#eligeFra label{
+    font-size: 1.3rem;
 }
 .form_home select{
-    font-size: 2rem;
+    font-size: 1.3rem;
     width: 50%;
     margin: 1rem 0;
 }
+
 .nav ul{
     display: flex;
     justify-content: center;
@@ -104,12 +90,18 @@ h2{
     color: #000;
 }
 .nav ul li{
-    font-size: 2.3rem;
-    padding: 1rem;
-    margin: 0 4rem;
+    font-size: 1.6rem;
+    padding: 0.8rem;
+    margin: 1rem;
     background-color: lightgray;
     color: #000;
     border-radius: 1rem;
+}
+#codFra{
+    font-size: 1.5rem;
+}
+.nav ul li a{
+    font-size: 1.3rem;
 }
 .menu{
     border: 1px solid #fff;
@@ -117,12 +109,12 @@ h2{
     padding: 0.5rem;
     margin: 1rem;
     border-style: dashed;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
     background-color: #fff;
     color: #000;
 }
 p{
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: bold;
     text-align: center;
     padding: 0.5rem;
@@ -136,20 +128,18 @@ p{
     justify-content: center;
     align-items: flex-start;
     gap: 1rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
     min-height: 100vh;
 }
 
 .container img{
-    max-width: 40rem;
+    max-width: 20rem;
 }
 picture{
     flex-basis: 20%;
     text-align: center;
     border: 1px solid #CCC;
 }
-
-
 .footer{
     text-align: right;
 }
