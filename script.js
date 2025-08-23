@@ -10,44 +10,22 @@ let cont_kids = 0;
 let arr_Woman = [];
 let arr_Man = [];
 let arr_Kids = [];
-
 let fra = document.getElementById('fra');
 let fraDos = document.getElementById('fraDos');
-//let arr_Fras = ['617','618','619','620'];
 let archivoJson = '';
 let jpg = '_X.jpg';
-
-let obj = {};  //objeto para casa referencia.
-
+let obj = {};  //objeto para name referencia.
 let nav = document.getElementById('nav');
 nav.style.display = 'none';
-
 let form_home = document.getElementById('form_home');
-//let fra_home = document.getElementsByClassName('.fra_home');
-
-//deja una opcion por default en el select
-let defaultOpc = document.createElement('option');
-
 let menOpc = document.getElementById('eligeFra');
 menOpc.style.display = 'none';
-
-/*  ****************************  */
-/*
-window.addEventListener('scroll', () => {
-    const header = document.querySelector('header');
-    const h3 = document.getElementById('h3');
-    const headerBott = header.getBoundingClientRect().bottom;
-
-    headerBott <= 0 ? h3.style.display = 'none' : h3.style.display = 'block';
-
-});
-/*  ****************************  */
+let codFra = document.getElementById('codFra');
 
 function SeleccionFra (numFra){
-    let arr_Fras = ['617','618','619','620'];
+    let arr_Fras = ['617','618','619','620','621'];
     //deja una opcion por default en el select
     let defaultOpc = document.createElement('option');
-    //let msm_default = document.createElement('h2');
     defaultOpc.textContent = '----';
     defaultOpc.value = '';
     defaultOpc.disabled = true;
@@ -63,12 +41,6 @@ function SeleccionFra (numFra){
 
     return numFra;
 };
-
-/*  ****************************  */
-container.style.display = 'none';
-/*  ****************************  */
-
-let codFra = document.getElementById('codFra');
 
 SeleccionFra(fraDos);
 fraDos.addEventListener("change", () => {
@@ -86,6 +58,48 @@ fra.addEventListener("change", () => {
         cargarDatos(archivoJson);
     });
 
+/*  ****************************  */
+container.style.display = 'none';
+/*  ****************************  */
+
+function Genero (genero,sku) {
+    if(genero == 'W' || genero == 'A' || genero == 'S')
+        {
+            cont_woman++;
+            arr_Woman.push(sku);
+            return cont_woman;
+        }
+    if(genero == 'M' || genero == 'Z')
+        {
+            cont_man++;
+            arr_Man.push(sku);
+            return cont_man;
+        }
+    if(genero == 'G' || genero == 'B' || genero == 'Y' || genero == 'K')
+        {
+            cont_kids++;
+            arr_Kids.push(sku);
+            return cont_kids;
+        };
+};
+
+function Card (i) {
+    let concatena = string+i.slice(0,8)+"_"+i.slice(8,12)+jpg;
+    let picture = document.createElement('picture');
+    let labelSku = document.createElement('p');
+    let img = document.createElement('img');
+
+    let labelName = document.createElement('p');
+    labelName.textContent = obj[i].Name;
+
+    img.setAttribute('src', concatena);
+    labelSku.textContent = i;
+    picture.appendChild(img);
+    container.appendChild(picture);
+    picture.appendChild(labelName);
+    picture.appendChild(labelSku);
+};
+
 async function cargarDatos(fichero) {
 
     nav.style.display = 'block';
@@ -98,7 +112,6 @@ async function cargarDatos(fichero) {
     arr_Man = [];
     arr_Woman = [];
     arr_Kids = [];
-
     menOpc.style.display = 'block';
 
     try {
@@ -112,13 +125,11 @@ async function cargarDatos(fichero) {
         for(let i=0; i<data.length; i++){
 
             let sku = data[i].Sku;
-
             let genero = sku.slice(3,4);
             let concatena = string+sku.slice(0,8)+"_"+sku.slice(8,12)+jpg;
             let picture = document.createElement('picture');
             let labelSku = document.createElement('p');
             let img = document.createElement('img');
-
             let name = data[i].Name;
             let labelName = document.createElement('p');
             labelName.textContent = name;
@@ -149,28 +160,6 @@ async function cargarDatos(fichero) {
         }
 
 }
-
-function Genero (genero,sku) {
-    if(genero == 'W' || genero == 'A' || genero == 'S')
-        {
-            cont_woman++;
-            arr_Woman.push(sku);
-            return cont_woman;
-        }
-    if(genero == 'M' || genero == 'Z')
-        {
-            cont_man++;
-            arr_Man.push(sku);
-            return cont_man;
-        }
-    if(genero == 'G' || genero == 'B' || genero == 'Y' || genero == 'K')
-        {
-            cont_kids++;
-            arr_Kids.push(sku);
-            return cont_kids;
-        };
-};
-
 
 let linkWoman = document.getElementById('linkWoman');
 let linkMan = document.getElementById('linkMan');
@@ -208,20 +197,3 @@ linkKids.addEventListener("click", () => {
         Card(i);
     });
 })
-
-function Card (i) {
-    let concatena = string+i.slice(0,8)+"_"+i.slice(8,12)+jpg;
-    let picture = document.createElement('picture');
-    let labelSku = document.createElement('p');
-    let img = document.createElement('img');
-
-    let labelName = document.createElement('p');
-    labelName.textContent = obj[i].Name;
-
-    img.setAttribute('src', concatena);
-    labelSku.textContent = i;
-    picture.appendChild(img);
-    container.appendChild(picture);
-    picture.appendChild(labelName);
-    picture.appendChild(labelSku);
-};
