@@ -1,0 +1,826 @@
+[
+ {
+  "Sku": "25WWFFX05025",
+  "Name": "Striped midi pencil skirt "
+ },
+ {
+  "Sku": "25WWPK021000",
+  "Name": "Elastic pants with distorted stripes "
+ },
+ {
+  "Sku": "25WWPW032000",
+  "Name": "Tailored combined trousers "
+ },
+ {
+  "Sku": "25WWSK137045",
+  "Name": "Basic logo sweatshirt "
+ },
+ {
+  "Sku": "25WWTK082000",
+  "Name": "T-shirt with embroidered phrase "
+ },
+ {
+  "Sku": "25WWDD085008",
+  "Name": "Hybrid Jogger Jeans "
+ },
+ {
+  "Sku": "25WWDD145008",
+  "Name": "Combined flare jeans "
+ },
+ {
+  "Sku": "25WWVK052001",
+  "Name": "Dress designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWVK192000",
+  "Name": "Watercolor floral fitted dress "
+ },
+ {
+  "Sku": "25WMJF159022",
+  "Name": "Stitch knit sweater "
+ },
+ {
+  "Sku": "25WWJF052000",
+  "Name": "Sweater designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWVK032000",
+  "Name": "Dress designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WGTK211000",
+  "Name": "T-shirt with applique shapes "
+ },
+ {
+  "Sku": "25WWED165053",
+  "Name": "Waxed Mickey™ denim jacket "
+ },
+ {
+  "Sku": "25WWFW024005",
+  "Name": "Skirt designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWTK101000",
+  "Name": "Draped newspaper T-shirt "
+ },
+ {
+  "Sku": "25WWJF423113",
+  "Name": "Sweater designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWFF011001",
+  "Name": "Striped knit midi skirt "
+ },
+ {
+  "Sku": "25WWTK482000",
+  "Name": "Combined striped T-shirt "
+ },
+ {
+  "Sku": "25WWVK094049",
+  "Name": "Dress designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWCW195055",
+  "Name": "Mickey™ striped shirt "
+ },
+ {
+  "Sku": "25WWEWXB2007",
+  "Name": "Short jacket with waistband "
+ },
+ {
+  "Sku": "25WWTK081000",
+  "Name": "T-shirt with embroidered phrase "
+ },
+ {
+  "Sku": "25WWVW284010",
+  "Name": "Dress designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWFW052000",
+  "Name": "Skirt designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWJF484055",
+  "Name": "Sweater designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWVK183086",
+  "Name": "Gradient tulle midi dress "
+ },
+ {
+  "Sku": "25WWFD035053",
+  "Name": "Combined denim midi skirt "
+ },
+ {
+  "Sku": "25WWSK142000",
+  "Name": "Mickey™ thread sweatshirt "
+ },
+ {
+  "Sku": "25WWVK374010",
+  "Name": "Dress designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWFK034010",
+  "Name": "Skirt designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWPW052000",
+  "Name": "Flocked floral pants "
+ },
+ {
+  "Sku": "25WWEW192000",
+  "Name": "Blazer with velvet details "
+ },
+ {
+  "Sku": "25WWTK551001",
+  "Name": "Wavy striped T-shirt "
+ },
+ {
+  "Sku": "25WWVK072000",
+  "Name": "Dress designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWVK251000",
+  "Name": "2-in-1 brushstroke dress "
+ },
+ {
+  "Sku": "25WWJF465025",
+  "Name": "Sweater designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWBW095032",
+  "Name": "Long-sleeve pleated blouse "
+ },
+ {
+  "Sku": "25WWFWX19016",
+  "Name": "Floral A-line midi skirt "
+ },
+ {
+  "Sku": "25WWPW082000",
+  "Name": "Tailor cargo pants "
+ },
+ {
+  "Sku": "25WWVW275032",
+  "Name": "2-in-1 vest dress "
+ },
+ {
+  "Sku": "25WWVK102000",
+  "Name": "Dress designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWCW203175",
+  "Name": "Shirt designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWTK383035",
+  "Name": "T-shirt designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWVW192000",
+  "Name": "Embroidered Boho dress "
+ },
+ {
+  "Sku": "25WWTK593152",
+  "Name": "T-shirt designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WAIA175036",
+  "Name": "Checkered cape scarf "
+ },
+ {
+  "Sku": "25WAXPB26006",
+  "Name": "Medium 3D logo flap bag "
+ },
+ {
+  "Sku": "25WAXPB46011",
+  "Name": "Medium cut-out faux leather bag "
+ },
+ {
+  "Sku": "25WAXP522000",
+  "Name": "Medium faux leather bag with 3D logo "
+ },
+ {
+  "Sku": "25WAXP706009",
+  "Name": "Medium faux suede bag with 3D logo "
+ },
+ {
+  "Sku": "25WAKP062000",
+  "Name": "Small 3D effect floral backpack "
+ },
+ {
+  "Sku": "25WAIA152000",
+  "Name": "Combined denim poncho "
+ },
+ {
+  "Sku": "25WAXPAS9225",
+  "Name": "Metallic medium 3D logo bag with ruched handle "
+ },
+ {
+  "Sku": "25WWSK061011",
+  "Name": "Denim combined sweatshirt "
+ },
+ {
+  "Sku": "25WAKD072000",
+  "Name": "Large embroidered denim backpack "
+ },
+ {
+  "Sku": "25WAKP252000",
+  "Name": "Small faux leather backpack with buckles "
+ },
+ {
+  "Sku": "25WAXPC29019",
+  "Name": "Medium braided faux leather bag "
+ },
+ {
+  "Sku": "25WAYP432000",
+  "Name": "Large floral leather-effect wallet "
+ },
+ {
+  "Sku": "25WAKP306006",
+  "Name": "Large logo faux leather backpack "
+ },
+ {
+  "Sku": "25WAXP776000",
+  "Name": "Medium patchwork crossbody bag "
+ },
+ {
+  "Sku": "25WAKP072000",
+  "Name": "Convertible backpack with large logo "
+ },
+ {
+  "Sku": "25WAXPAU9225",
+  "Name": "Medium metallic crossbody bag with 3D logo "
+ },
+ {
+  "Sku": "25WAKP289225",
+  "Name": "Metallic backpack with large logo "
+ },
+ {
+  "Sku": "25WWEWX96045",
+  "Name": "Tie-dye jacket "
+ },
+ {
+  "Sku": "25SWEWX43033",
+  "Name": "Pink tartan coat "
+ },
+ {
+  "Sku": "25WAXPAQ9225",
+  "Name": "Medium metallic flap bag with 3D logo "
+ },
+ {
+  "Sku": "25WAXA512000",
+  "Name": "Medium shiny shopper bag "
+ },
+ {
+  "Sku": "25WAXP402000",
+  "Name": "Small 3D embossed bag "
+ },
+ {
+  "Sku": "25WAKP192000",
+  "Name": "Small embossed flap backpack "
+ },
+ {
+  "Sku": "25WAYP249225",
+  "Name": "Medium metallic 3D logo phone holder "
+ },
+ {
+  "Sku": "25WAXA212000",
+  "Name": "Medium newspaper handbag "
+ },
+ {
+  "Sku": "25WAXP412000",
+  "Name": "Medium 3D embossed bag "
+ },
+ {
+  "Sku": "25WAXA202000",
+  "Name": "Medium newspaper shoulder bag "
+ },
+ {
+  "Sku": "25WAXP292000",
+  "Name": "Medium studded snake bag "
+ },
+ {
+  "Sku": "25WAXP372000",
+  "Name": "Medium cut-out faux leather bag "
+ },
+ {
+  "Sku": "25WAXPB56011",
+  "Name": "Medium cut-out faux leather bag "
+ },
+ {
+  "Sku": "25WAXW029019",
+  "Name": "Bag designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WAXA502000",
+  "Name": "Medium shiny crossbody bag "
+ },
+ {
+  "Sku": "25WAXPBF5031",
+  "Name": "Small crossbody bag with mandala embossing "
+ },
+ {
+  "Sku": "25WAYP256009",
+  "Name": "Medium 3D logo phone holder "
+ },
+ {
+  "Sku": "25WAXPBD2000",
+  "Name": "Medium faux leather embroidered crossbody bag "
+ },
+ {
+  "Sku": "25WGEW065031",
+  "Name": "Colage padded jacket "
+ },
+ {
+  "Sku": "25WWFK071001",
+  "Name": "Newspaper asymmetrical skirt "
+ },
+ {
+  "Sku": "25WWTFX05025",
+  "Name": "Zip-knit T-shirt "
+ },
+ {
+  "Sku": "25SWJF123011",
+  "Name": "Vertical striped zipper cardigan "
+ },
+ {
+  "Sku": "25WWJF191011",
+  "Name": "Polo neck sweater with buttons "
+ },
+ {
+  "Sku": "25WWJF436001",
+  "Name": "Minnie™ animal print sweater "
+ },
+ {
+  "Sku": "25WWVFX15025",
+  "Name": "Vertical striped dress "
+ },
+ {
+  "Sku": "25WGVK072000",
+  "Name": "Long sleeve skater dress with streamers "
+ },
+ {
+  "Sku": "25WWCW071000",
+  "Name": "Shirt designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25WWEW685002",
+  "Name": "Frayed paisley jacket "
+ },
+ {
+  "Sku": "25WWPW015002",
+  "Name": "Paisley twill trousers "
+ },
+ {
+  "Sku": "25WWTK083005",
+  "Name": "T-shirt with embroidered phrase "
+ },
+ {
+  "Sku": "25WWJF134146",
+  "Name": "Soft V-neck sweater "
+ },
+ {
+  "Sku": "25WWSK155000",
+  "Name": "Mickey™ Fantasia sweatshirt "
+ },
+ {
+  "Sku": "25WWVK342001",
+  "Name": "Cut-out space dress "
+ },
+ {
+  "Sku": "25WWSK161001",
+  "Name": "Mickey™ sweatshirt-style jacket "
+ },
+ {
+  "Sku": "25WWVK315000",
+  "Name": "Fitted mandala dress "
+ },
+ {
+  "Sku": "25WWED055053",
+  "Name": "Double-collar denim jacket "
+ },
+ {
+  "Sku": "25WWSK032000",
+  "Name": "Mickey™ lettering sweatshirt "
+ },
+ {
+  "Sku": "25WMCW339022",
+  "Name": "Patch-effect carp shirt "
+ },
+ {
+  "Sku": "25WMTK332000",
+  "Name": "Short-sleeve bandana T-shirt "
+ },
+ {
+  "Sku": "25WWDD175053",
+  "Name": "Mickey™ culotte jeans "
+ },
+ {
+  "Sku": "25WWVD035053",
+  "Name": "Denim combined dress "
+ },
+ {
+  "Sku": "25WWVKXK2000",
+  "Name": "Orchid maxi dress "
+ },
+ {
+  "Sku": "25WWDDXC5058",
+  "Name": "Combined denim pants "
+ },
+ {
+  "Sku": "25WWJFX25001",
+  "Name": "Two-tone knit cardigan "
+ },
+ {
+  "Sku": "25WWJFX33000",
+  "Name": "Two-tone knit sweater "
+ },
+ {
+  "Sku": "25WWVW235032",
+  "Name": "Paisley shirt dress "
+ },
+ {
+  "Sku": "25SMCW445004",
+  "Name": "Short-sleeve shirt with Botter lettering "
+ },
+ {
+  "Sku": "25SMCW451000",
+  "Name": "Short-sleeve shirt with Botter lettering "
+ },
+ {
+  "Sku": "25SMCW465000",
+  "Name": "Oversize striped shirt Botter "
+ },
+ {
+  "Sku": "25SWTKBC3143",
+  "Name": "Double-sleeve patch T-shirt Botter "
+ },
+ {
+  "Sku": "25WWTKXR5194",
+  "Name": "Short-sleeve gradient T-shirt "
+ },
+ {
+  "Sku": "25WWVK252000",
+  "Name": "2-in-1 brushstroke dress "
+ },
+ {
+  "Sku": "25WAWA084077",
+  "Name": "Watercolor crumpled scarf "
+ },
+ {
+  "Sku": "25WBTK085000",
+  "Name": "Short-sleeve stamp T-shirt "
+ },
+ {
+  "Sku": "25WWJFX55100",
+  "Name": "Long cardigan sweater "
+ },
+ {
+  "Sku": "25WWTKXC2000",
+  "Name": "Sleeveless spiral T-shirt "
+ },
+ {
+  "Sku": "25WWTKXH1000",
+  "Name": "Tank top with seams "
+ },
+ {
+  "Sku": "25WWVK381000",
+  "Name": "V-neck combined dress "
+ },
+ {
+  "Sku": "25WWVKXH2002",
+  "Name": "Sleeveless flared dress "
+ },
+ {
+  "Sku": "25WWVW022020",
+  "Name": "Dress designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "25SAXL302000",
+  "Name": "Medium leather bag Botter "
+ },
+ {
+  "Sku": "25WWJFX45048",
+  "Name": "Striped button sweater "
+ },
+ {
+  "Sku": "25WGVK125029",
+  "Name": "Watercolor tulle long-sleeve dress "
+ },
+ {
+  "Sku": "25WWTK311001",
+  "Name": "Chiffon sleeve T-shirt "
+ },
+ {
+  "Sku": "25WWTKXO2000",
+  "Name": "Rib tank top "
+ },
+ {
+  "Sku": "25WWVK351003",
+  "Name": "Wavy striped dress "
+ },
+ {
+  "Sku": "25WAKP012000",
+  "Name": "Medium Mickey™ faux leather backpack "
+ },
+ {
+  "Sku": "25WAWA172000",
+  "Name": "Rectangular scarf with red flowers "
+ },
+ {
+  "Sku": "25WWBW072000",
+  "Name": "Blouse with contrast embroidery "
+ },
+ {
+  "Sku": "25WWFW071001",
+  "Name": "Long skirt with strokes "
+ },
+ {
+  "Sku": "25WAXP192000",
+  "Name": "Medium Mickey™ faux leather crossbody bag "
+ },
+ {
+  "Sku": "25WAXPB72000",
+  "Name": "Small detachable two-tone bag "
+ },
+ {
+  "Sku": "25WAXPC56006",
+  "Name": "Medium bag pieces "
+ },
+ {
+  "Sku": "25WWEW544002",
+  "Name": "Combined short parka "
+ },
+ {
+  "Sku": "25SAKP572000",
+  "Name": "Medium embroidered backpack "
+ },
+ {
+  "Sku": "25WAKP226009",
+  "Name": "Small backpack with studded pockets "
+ },
+ {
+  "Sku": "25WAKY012000",
+  "Name": "Large modular nylon backpack "
+ },
+ {
+  "Sku": "25SWEW582000",
+  "Name": "Bomber jacket Botter "
+ },
+ {
+  "Sku": "25SWTKBB2000",
+  "Name": "Double-sleeve patch T-shirt Botter "
+ },
+ {
+  "Sku": "25SWTKBE2000",
+  "Name": "Denim pocket T-shirt Botter "
+ },
+ {
+  "Sku": "25WMSK192000",
+  "Name": "Mickey Mouse™ patch sweatshirt "
+ },
+ {
+  "Sku": "25WWTKXY2000",
+  "Name": "Floral lace T-shirt "
+ },
+ {
+  "Sku": "25WAIA082000",
+  "Name": "Combined faux leather poncho "
+ },
+ {
+  "Sku": "25WAIP036075",
+  "Name": "Faux leather poncho "
+ },
+ {
+  "Sku": "25WAYP082000",
+  "Name": "Medium detachable stitched wallet "
+ },
+ {
+  "Sku": "25WBEW022000",
+  "Name": "Spiderman™ padded jacket "
+ },
+ {
+  "Sku": "25WAKP096000",
+  "Name": "Medium faux leather effect backpack with stitching "
+ },
+ {
+  "Sku": "25WWEW591008",
+  "Name": "Light combined cloth coat "
+ },
+ {
+  "Sku": "25WAXP786000",
+  "Name": "Medium patchwork shoulder bag "
+ },
+ {
+  "Sku": "25WAKD042070",
+  "Name": "Medium Mickey™ denim backpack "
+ },
+ {
+  "Sku": "25WAKY104002",
+  "Name": "Large expandable nylon backpack "
+ },
+ {
+  "Sku": "25WAXD029019",
+  "Name": "Small printed bag "
+ },
+ {
+  "Sku": "25WAXD245008",
+  "Name": "Medium denim bag with buckles "
+ },
+ {
+  "Sku": "25SMCW431000",
+  "Name": "Oversize shirt Barcelona Botter "
+ },
+ {
+  "Sku": "25WAWA167038",
+  "Name": "Rectangular paisley scarf "
+ },
+ {
+  "Sku": "25WWJF374077",
+  "Name": "Watercolor draped fine sweater "
+ },
+ {
+  "Sku": "25WWTK302000",
+  "Name": "Chiffon sleeve T-shirt "
+ },
+ {
+  "Sku": "25WWVK309019",
+  "Name": "Collage fitted dress "
+ },
+ {
+  "Sku": "25SWTKBG2000",
+  "Name": "Long-sleeve shark T-shirt Botter "
+ },
+ {
+  "Sku": "25SWTKBH5070",
+  "Name": "Long-sleeve T-shirt turtles Botter "
+ },
+ {
+  "Sku": "25SWVK925050",
+  "Name": "Botter shark maxi dress "
+ },
+ {
+  "Sku": "25WWBW087002",
+  "Name": "Romantic paisley blouse "
+ },
+ {
+  "Sku": "25WWJF405018",
+  "Name": "Metallic openwork sweater "
+ },
+ {
+  "Sku": "25WWPW086035",
+  "Name": "Tailor cargo pants "
+ },
+ {
+  "Sku": "25WWVWX42006",
+  "Name": "Flocked short dress "
+ },
+ {
+  "Sku": "25WAWA265000",
+  "Name": "Pleated rectangular paisley scarf "
+ },
+ {
+  "Sku": "25WGTK251000",
+  "Name": "Mickey™ sequin T-shirt "
+ },
+ {
+  "Sku": "25WWBWX11000",
+  "Name": "Double-strap T-shirt "
+ },
+ {
+  "Sku": "25WWDDX83035",
+  "Name": "Culotte jeans "
+ },
+ {
+  "Sku": "25WWEW433006",
+  "Name": "Combined faux leather jacket "
+ },
+ {
+  "Sku": "25WWFWX22000",
+  "Name": "Asymmetric skirt "
+ },
+ {
+  "Sku": "25WWJFX01001",
+  "Name": "Tie-dye floral cardigan "
+ },
+ {
+  "Sku": "25WWSK101011",
+  "Name": "Long fluid daisy sweatshirt "
+ },
+ {
+  "Sku": "25WWTK412000",
+  "Name": "T-shirt with cross seams "
+ },
+ {
+  "Sku": "25WWVK442000",
+  "Name": "Asymmetric dress with floral strokes "
+ },
+ {
+  "Sku": "25WWDD205053",
+  "Name": "Cropped jeans with patches "
+ },
+ {
+  "Sku": "25WWED105053",
+  "Name": "Boho denim jacket "
+ },
+ {
+  "Sku": "25WWED145053",
+  "Name": "Denim jacket with combined sleeves "
+ },
+ {
+  "Sku": "25WAXP792000",
+  "Name": "Medium faux leather crossbody bag "
+ },
+ {
+  "Sku": "25SAXPD02000",
+  "Name": "Small embroidered faux leather bag "
+ },
+ {
+  "Sku": "25SARA075016",
+  "Name": "Reversible belt "
+ },
+ {
+  "Sku": "25WWEW698006",
+  "Name": "Faux leather biker jacket "
+ },
+ {
+  "Sku": "25WWED015053",
+  "Name": "Sherpa denim vest "
+ },
+ {
+  "Sku": "25WWED075053",
+  "Name": "Denim jacket with oriental embroidery "
+ },
+ {
+  "Sku": "25WWED115053",
+  "Name": "Mirror denim jacket "
+ },
+ {
+  "Sku": "25WWVW099019",
+  "Name": "Floral knot short dress "
+ },
+ {
+  "Sku": "25WWDD115089",
+  "Name": "Mirror culotte jeans "
+ },
+ {
+  "Sku": "25WWTK322000",
+  "Name": "Long-sleeve floral T-shirt "
+ },
+ {
+  "Sku": "25WWVK266000",
+  "Name": "Floral draped dress "
+ },
+ {
+  "Sku": "25WWTK411001",
+  "Name": "T-shirt with cross seams "
+ },
+ {
+  "Sku": "25WWTKX55139",
+  "Name": "Floral tank top "
+ },
+ {
+  "Sku": "25WWTKX75016",
+  "Name": "Ribbed tulle T-shirt "
+ },
+ {
+  "Sku": "25WWVWX29016",
+  "Name": "Short fluid dress with bow "
+ },
+ {
+  "Sku": "25WWCW011000",
+  "Name": "2-in-1 floral shirt "
+ },
+ {
+  "Sku": "25WWVW163029",
+  "Name": "Pleated shirt dress "
+ },
+ {
+  "Sku": "25WWVWXB7002",
+  "Name": "Draped long dress "
+ },
+ {
+  "Sku": "25WWVKX65139",
+  "Name": "Tie-dye ruched dress "
+ },
+ {
+  "Sku": "25WWSK071011",
+  "Name": "Jacquard sleeve sweatshirt "
+ },
+ {
+  "Sku": "25WWBWX01000",
+  "Name": "Embroidered puff-sleeve blouse "
+ },
+ {
+  "Sku": "25WWCW152000",
+  "Name": "Combined silhouette floral shirt "
+ },
+ {
+  "Sku": "25WARL056011",
+  "Name": "Articulated leather belt "
+ },
+ {
+  "Sku": "25WWTKX61001",
+  "Name": "Love the planet\" T-shirt "
+ }
+]
