@@ -1,23 +1,42 @@
-# Nombre del Proyecto
+📊 Visualización de Importaciones Desigual - Difermoda
 
-Visualización de importaciones Desigual - Difermoda
+Este proyecto permite visualizar el histórico de importaciones de productos de la marca Desigual para la empresa Difermoda, facilitando el seguimiento de cada lote recibido. La información se organiza por categorías: Woman, Man y Kids, lo que permite una navegación más intuitiva.
 
-Esto es un proyecto básico que muestra el histórico de importaciones de la marca Desigual para la empresa Difermoda.
-Permite a los usuarios verificar de una manera mas fácil los productos que llegan en cada importación.
-La visualización se realiza por categorías Woman-Man-Kids.
 
-## Descripción
 
-Este proyecto consulta archivos JSON, los cuales están divididos por numero de importación.
-Se procesan y se organizan en el GRID, dependiendo del numero escogido por el usuario.
+📝 Descripción
 
-## Tecnologías Usadas
+La aplicación consulta archivos JSON que contienen los datos de cada importación, clasificados por número de lote. Al seleccionar una importación específica, los productos se procesan y se muestran en un GRID dinámico, organizado por categoría y con detalles relevantes de cada artículo.
 
-** HTML5
-** CSS3
-** JavaScript
 
-## Contacto
 
-Para dudas y/o preguntas, pueden contactarme en:
+🚀 Funcionalidades
+
+\- Visualización por número de importación
+
+\- Clasificación por categoría (Woman, Man, Kids)
+
+\- Interfaz amigable
+
+\- Organización en formato GRID para fácil lectura
+
+
+
+🛠️ Tecnologías Utilizadas
+
+\- HTML5
+
+\- CSS3
+
+\- JavaScript
+
+
+
+📬 Contacto
+
+Para dudas, sugerencias o colaboración, puedes escribirme a:
+
 Didier.gutierrez@sisa.com
+
+
+
