@@ -23,7 +23,7 @@ menOpc.style.display = 'none';
 let codFra = document.getElementById('codFra');
 
 function SeleccionFra (numFra){
-    let arr_Fras = ['624','625','626','627','628','629'];
+    let arr_Fras = ['627','628','629','630'];
     //deja una opcion por default en el select
     let defaultOpc = document.createElement('option');
     defaultOpc.textContent = '----';
