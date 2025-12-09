@@ -3,44 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FRAs Desigual Ecommerce</title>
-    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>Listado de Importaciones</title>
 </head>
 <body>
-    <main class="main">
-        <header class="header">
-            <a id="linkLogo" href="#"><img class="Imglogo" src="img/LogoDesigual.svg" alt=""></a>
-            <div id="eligeFra" class="fra">
-                <label for="fra">Elige un FRA</label>
-                <select id="fra" name="fra">
-                </select>
-            </div>
+    <div class="grid min-h-screen grid-rows-[auto_1fr_auto] gap-2">
+        <header class="bg-gray-200 p-2 flex justify-center md:justify-start">
+            <a href="index.html"><img class="h-8 md:h-10" src="./img/LogoDesigual.svg" alt="Logo"></a>
         </header>
-        <nav id="nav" class="nav">
-            <ul>
-                <li>FRA : #<span id="codFra" class=""></span></li>
-                <li><a id="linkAll" href="#">All<span id="all" class="menu"></span></a></li>
-                <li><a id="linkWoman" href="#">Woman<span id="woman" class="menu"></span></a></li>
-                <li><a id="linkMan" href="#">Man<span id="man" class="menu"></span></a></li>
-                <li><a id="linkKids" href="#">Kids<span id="kids" class="menu"></span></a></li>
-            </ul>
-        </nav>
-        <div id='container' class="container">
-        </div>
-        <div class="contenedor_form">
-            <div id="form_home" class="form_home">
-                <h2>Seleccione un FRA</h2>
-                <h3>Referencias Ecommerce</h3>
-                <select id="fraDos" name="fraDos">
-                </select>
+        <main class="p-2">
+            <h1 id="title" class="text-center font-bold text-xl md:text-4xl pb-3">Seleccione un FRA</h1>
+            <nav id="nav" class="text-sm md:text-xl sticky top-0 z-50 bg-gray-100 rounded-md shadow hidden p-3">
+
+                <ul class="flex items-center font-semibold text-gray-700 w-full">
+                    <li class="mr-auto"># <span id="codFra"></span></li>
+                    <div class="text-xs md:text-xl flex justify-center gap-2 md:gap-4 flex-1 flex inline-flex">
+                        <li>
+                            <a data-filter="all" class="hidden md:inline-flex hover:text-blue-600 cursor-pointer transition-colors" href="#">All<span class="px-2" id="label_all"></span></a>
+                        </li>
+                        <li>
+                            <a data-filter="woman" class="hover:text-blue-600 cursor-pointer transition-colors" href="#">Woman<span class="px-2" id="label_woman"></span></a>
+                        </li>
+                        <li>
+                            <a data-filter="man" class="hover:text-blue-600 cursor-pointer transition-colors" href="#">Man<span class="px-2" id="label_man"></span></a>
+                        </li>
+                        <li>
+                            <a data-filter="kids" class="hover:text-blue-600 cursor-pointer transition-colors" href="#">Kids<span class="px-2" id="label_kids"></span></a>
+                        </li>
+                    </div>
+                    <li class="ml-auto">
+                        <label for="lista-fras">FRAs</label>
+                        <select id="lista-fras" name="fra">
+                        </select>
+                    </li>
+                </ul>
+            </nav>
+            <div id="grid" class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center pt-3">
             </div>
-        </div>
-
-        <footer class="footer">
-            <img class="Imglogo_footer" src="img/LogoDesigual.svg" alt="">
+            <div id="grid-img" class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center p-3">
+            </div>
+        </main>
+        <footer class="bg-gray-200 p-2 flex flex-col justify-center">
+            <img class="h-6 md:h-8" src="./img/LogoDesigual.svg" alt="">
+            <p class="text-xs text-gray-600 text-center p-2">&copy; 2025 didier.gutierrez@sisa.com</p>
         </footer>
-    </main>
+    </div>
 
-    <script src="script.js"></script>
+    <script src="./script.js"></script>
 </body>
 </html>

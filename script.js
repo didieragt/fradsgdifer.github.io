@@ -1,159 +1,82 @@
-const all = document.getElementById('all');
-const woman = document.getElementById('woman');
-const man = document.getElementById('man');
-const kids = document.getElementById('kids');
-let container = document.getElementById('container');
-let string = 'https://www.pre.desigual.com/dw/image/v2/BCVV_PRD/on/demandware.static/-/Sites-desigual-m-catalog/default/dw97ce96ee/images/B2C/';
-let cont_woman = 0;
-let cont_man = 0;
-let cont_kids = 0;
-let arr_Woman = [];
-let arr_Man = [];
-let arr_Kids = [];
-let fra = document.getElementById('fra');
-let fraDos = document.getElementById('fraDos');
+let arr_Fras = ['630','629','628','627','626','625','624','623'];
+let grid = document.getElementById('grid');
+let gridImg = document.getElementById('grid-img');
+let title = document.getElementById('title');
 let archivoJson = '';
-let jpg = '_X.jpg';
-let obj = {};  //objeto para name referencia.
 let nav = document.getElementById('nav');
-nav.style.display = 'none';
-let form_home = document.getElementById('form_home');
-let menOpc = document.getElementById('eligeFra');
-menOpc.style.display = 'none';
 let codFra = document.getElementById('codFra');
+let label_all = document.getElementById('label_all');
+let label_woman = document.getElementById('label_woman');
+let label_man = document.getElementById('label_man');
+let label_kids = document.getElementById('label_kids');
+let linksNav = document.querySelectorAll('#nav a[data-filter]');
+let listaFras = document.getElementById('lista-fras');
+let cont_woman = 0, cont_man = 0, cont_kids = 0;
+let linkImg = 'https://www.pre.desigual.com/dw/image/v2/BCVV_PRD/on/demandware.static/-/Sites-desigual-m-catalog/default/dw97ce96ee/images/B2C/';
 
-function SeleccionFra (numFra){
-    let arr_Fras = ['627','628','629','630'];
-    //deja una opcion por default en el select
-    let defaultOpc = document.createElement('option');
-    defaultOpc.textContent = '----';
-    defaultOpc.value = '';
-    defaultOpc.disabled = true;
-    defaultOpc.selected = true;
-    numFra.appendChild(defaultOpc);
 
-    arr_Fras.forEach(i => {
-        let option = document.createElement('option');
-        option.value = i;
-        option.textContent = i;
-        numFra.appendChild(option);
-    });
+arr_Fras.forEach(i => {
+    let p = document.createElement('div');
+    p.textContent = i;
+    p.className = "border rounded-lg p-6 shadow hover:bg-gray-100 cursor-pointer transform hover:scale-105 transition";
 
-    return numFra;
-};
-
-SeleccionFra(fraDos);
-fraDos.addEventListener("change", () => {
-        let seleccion = fraDos.value;
-        archivoJson = `${seleccion}.json`;
-        codFra.textContent = seleccion;
-        cargarDatos(archivoJson);
-    })
-
-SeleccionFra(fra);
-fra.addEventListener("change", () => {
-        let seleccion = fra.value;
-        archivoJson = `${seleccion}.json`;
-        codFra.textContent = seleccion;
+    p.addEventListener('click', () => {
+        grid.style.display = 'none';
+        title.style.display = 'none';
+        nav.style.display = 'block';
+        codFra.textContent = i;
+        archivoJson = `${i}.json`;
         cargarDatos(archivoJson);
     });
 
-/*  ****************************  */
-container.style.display = 'none';
-/*  ****************************  */
+    let option = document.createElement('option');
+    option.value = i;
+    option.textContent = i;
+    listaFras.appendChild(option);
 
-function Genero (genero,sku) {
-    if(genero == 'W' || genero == 'A' || genero == 'S')
-        {
-            cont_woman++;
-            arr_Woman.push(sku);
-            return cont_woman;
-        }
-    if(genero == 'M' || genero == 'Z')
-        {
-            cont_man++;
-            arr_Man.push(sku);
-            return cont_man;
-        }
-    if(genero == 'G' || genero == 'B' || genero == 'Y' || genero == 'K')
-        {
-            cont_kids++;
-            arr_Kids.push(sku);
-            return cont_kids;
-        };
-};
+    grid.appendChild(p);
+})
 
-function Card (i) {
-    let concatena = string+i.slice(0,8)+"_"+i.slice(8,12)+jpg;
-    let picture = document.createElement('picture');
-    let labelSku = document.createElement('p');
-    let img = document.createElement('img');
+let defaultOpc = document.createElement('option');
+defaultOpc.textContent = '----';
+defaultOpc.value = '';
+defaultOpc.disabled = true;
+defaultOpc.selected = true;
+listaFras.appendChild(defaultOpc);
 
-    let labelName = document.createElement('p');
-    labelName.textContent = obj[i].Name;
-
-    img.setAttribute('src', concatena);
-    labelSku.textContent = i;
-    picture.appendChild(img);
-    container.appendChild(picture);
-    picture.appendChild(labelName);
-    picture.appendChild(labelSku);
-};
+listaFras.addEventListener("change", () => {
+        let seleccion = listaFras.value;
+        archivoJson = `${seleccion}.json`;
+        codFra.textContent = seleccion;
+        gridImg.innerHTML = '';
+        cargarDatos(archivoJson);
+    });
 
 async function cargarDatos(fichero) {
 
-    nav.style.display = 'block';
-    form_home.style.display = 'none';
-    container.style.display = 'flex';
-    container.innerHTML = '';
-    cont_woman=0;
-    cont_man = 0;
-    cont_kids = 0;
-    arr_Man = [];
-    arr_Woman = [];
-    arr_Kids = [];
-    menOpc.style.display = 'block';
-
     try {
-        const response = await fetch('json/'+fichero);
+        const response = await fetch('./json/'+fichero);
 
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
 
-        for(let i=0; i<data.length; i++){
+        linksNav.forEach(link => {
+            link.addEventListener('click', e => {
+                e.preventDefault();
+                const filter = e.target.closest('a').dataset.filter;
+                Filtro(data,filter);
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            })
+        })
 
-            let sku = data[i].Sku;
-            let genero = sku.slice(3,4);
-            let concatena = string+sku.slice(0,8)+"_"+sku.slice(8,12)+jpg;
-            let picture = document.createElement('picture');
-            let labelSku = document.createElement('p');
-            let img = document.createElement('img');
-            let name = data[i].Name;
-            let labelName = document.createElement('p');
-            labelName.textContent = name;
+        muestraProducto(data);
 
-            //Se asigna al objeto los nombres con una clave unica SKU
-            obj[sku] = {
-                Name: name,
-            };
-
-            Genero(genero, sku);
-
-            img.setAttribute('src', concatena);
-            labelSku.textContent = sku;
-            picture.appendChild(img);
-            container.appendChild(picture);
-            picture.appendChild(labelName);
-            picture.appendChild(labelSku);
-        }
-
-        all.textContent = data.length;
-        woman.textContent = cont_woman;
-        man.textContent = cont_man;
-        kids.textContent = cont_kids;
-
+        label_all.textContent = data.length;
+        label_woman.textContent = cont_woman;
+        label_man.textContent = cont_man;
+        label_kids.textContent = cont_kids;
 
     } catch (error) {
             console.error('Error al leer el archivo JSON:', error);
@@ -161,39 +84,76 @@ async function cargarDatos(fichero) {
 
 }
 
-let linkWoman = document.getElementById('linkWoman');
-let linkMan = document.getElementById('linkMan');
-let linkKids = document.getElementById('linkKids');
-let linkAll = document.getElementById('linkAll');
-let logo = document.getElementById('linkLogo');
+function muestraProducto(data){
+    cont_woman = 0;
+    cont_man = 0;
+    cont_kids = 0;
+    for(let i=0; i<data.length; i++){
+        let genero = data[i].Sku.slice(3,4);
+        Genero(genero);
+        let sku = data[i].Sku;
+        let concatena = linkImg+sku.slice(0,8)+"_"+sku.slice(8,12)+'_X.jpg';
+        let picture = document.createElement('picture');
+        let img = document.createElement('img');
+        let labelname = document.createElement('p');
+        let labelSku = document.createElement('p');
+        let name = data[i].Name;
+        picture.className = 'bg-gray-200 border border-gray-700 pb-2 text-center font-semibold text-xs md:text-lg';
+        img.className = 'p-2';
+        img.setAttribute('src', concatena);
+        labelname.textContent = name;
+        labelSku.textContent = sku;
+        gridImg.appendChild(picture);
+        picture.appendChild(img);
+        picture.appendChild(labelname);
+        picture.appendChild(labelSku);
+    }
+}
 
+function Filtro (data,filter) {
+    switch(filter){
+        case 'all':
+            gridImg.innerHTML = '';
+            muestraProducto(data);
+            break;
+        case 'woman':
+            gridImg.innerHTML = '';
+            const gridWoman = data.filter(w => {
+                return w.Sku.slice(3,4) == 'W' || w.Sku.slice(3,4) == 'A' || w.Sku.slice(3,4) == 'S';
+            })
+            muestraProducto(gridWoman);
+            break;
+        case 'man':
+            gridImg.innerHTML = '';
+            const gridMan = data.filter(m => {
+                return m.Sku.slice(3,4) == 'M' || m.Sku.slice(3,4) == 'Z';
+            })
+            muestraProducto(gridMan);
+            break;
+        case 'kids':
+            gridImg.innerHTML = '';
+            const gridKids = data.filter(k => {
+                return k.Sku.slice(3,4) == 'G' || k.Sku.slice(3,4) == 'B' || k.Sku.slice(3,4) == 'Y' || k.Sku.slice(3,4) == 'K';
+            })
+            muestraProducto(gridKids);
+            break;
+    }
+}
 
-logo.addEventListener("click", () => {
-    //recarga la pagina
-    document.location.reload();
-})
-
-linkAll.addEventListener("click", () => {
-    cargarDatos(archivoJson);
-})
-
-linkWoman.addEventListener("click", () => {
-    container.innerHTML = '';
-    arr_Woman.forEach(i => {
-        Card(i);
-    });
-})
-
-linkMan.addEventListener("click", () => {
-    container.innerHTML = '';
-    arr_Man.forEach(i => {
-        Card(i);
-    });
-});
-
-linkKids.addEventListener("click", () => {
-    container.innerHTML = '';
-    arr_Kids.forEach(i => {
-        Card(i);
-    });
-})
+function Genero (genero) {
+    if(genero == 'W' || genero == 'A' || genero == 'S')
+        {
+            cont_woman++;
+            return cont_woman;
+        }
+    if(genero == 'M' || genero == 'Z')
+        {
+            cont_man++;
+            return cont_man;
+        }
+    if(genero == 'G' || genero == 'B' || genero == 'Y' || genero == 'K')
+        {
+            cont_kids++;
+            return cont_kids;
+        };
+};
