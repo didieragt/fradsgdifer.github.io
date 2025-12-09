@@ -38,8 +38,7 @@ arr_Fras.forEach(i => {
 })
 
 let defaultOpc = document.createElement('option');
-defaultOpc.textContent = '----';
-defaultOpc.value = '';
+defaultOpc.textContent = 'FRAs';
 defaultOpc.disabled = true;
 defaultOpc.selected = true;
 listaFras.appendChild(defaultOpc);
