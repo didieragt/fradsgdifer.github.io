@@ -1,0 +1,542 @@
+[
+ {
+  "Sku": "25SWDD885053",
+  "Name": "DENIM_FLOWER_ 5053 DENIM MEDIUM WASH"
+ },
+ {
+  "Sku": "25SWJF123011",
+  "Name": "JERS_KALMAR 3011 VIOLETA"
+ },
+ {
+  "Sku": "25SWMFX61001",
+  "Name": "REPRIS_SWIM_POWER TOP 1001 CRUDO"
+ },
+ {
+  "Sku": "25SWTK241001",
+  "Name": "TS_PLATA 1001 CRUDO"
+ },
+ {
+  "Sku": "25SWTKZ12002",
+  "Name": "REPRIS_TS_FRAMES 2002 ANTRACITA"
+ },
+ {
+  "Sku": "25SWVKXV6108",
+  "Name": "REPIS_VEST_OTOÑO 6108 BOMBAY BROWN"
+ },
+ {
+  "Sku": "25WAIA052000",
+  "Name": "PONCHO_MIX  ALDAMA MY 2000 NEGRO"
+ },
+ {
+  "Sku": "25WAIA072000",
+  "Name": "PONCHO_CUADROS ALDAMA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WAIA082000",
+  "Name": "PONCHO_EYELETS ALDAMA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WAIA092000",
+  "Name": "PONCHO_EMBROIDERY ALDAMA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WAIP042000",
+  "Name": "PONCHO_REVIVAL RICHMOND 2000 NEGRO"
+ },
+ {
+  "Sku": "25WAIY014002",
+  "Name": "PONCHO_NEW TRENCHY 4002 CAQUI"
+ },
+ {
+  "Sku": "25WAKP443000",
+  "Name": "BACK_REPRISE RED VALENTI 3000 CARMIN"
+ },
+ {
+  "Sku": "25WARL056011",
+  "Name": "BELT_REPRISE NOVA CAMEL 6011 CAMEL"
+ },
+ {
+  "Sku": "25WAXPCN2000",
+  "Name": "BAG_REPRISE GRAVITY XELA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WAXPD02000",
+  "Name": "BAG_REPRISE GRAVITY LEIRI 2000 NEGRO"
+ },
+ {
+  "Sku": "25WGEW099019",
+  "Name": "COAT_WAVES_LACR 9019 TUTTI FRUTI"
+ },
+ {
+  "Sku": "25WGJF062003",
+  "Name": "JERS_RUBY 2003 GRIS VIGORE MEDIO"
+ },
+ {
+  "Sku": "25WGPF012003",
+  "Name": "PANT_RUBY 2003 GRIS VIGORE MEDIO"
+ },
+ {
+  "Sku": "25WGSKX21001",
+  "Name": "SWEAT_MICKEY HAT 1001 CRUDO"
+ },
+ {
+  "Sku": "25WGTK052008",
+  "Name": "TS_PRISCILA 2008 GRIS PLOMO"
+ },
+ {
+  "Sku": "25WGVK111000",
+  "Name": "VEST_MIAU 1000 BLANCO"
+ },
+ {
+  "Sku": "25WWBW052000",
+  "Name": "BLUS_FLOKI 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWBWX61001",
+  "Name": "BLUS_NAI 1001 CRUDO"
+ },
+ {
+  "Sku": "25WWCW011000",
+  "Name": "CAM_CHALECO 1000 BLANCO"
+ },
+ {
+  "Sku": "25WWCW131001",
+  "Name": "CAM_BROIDFLO 1001 CRUDO"
+ },
+ {
+  "Sku": "25WWCW195055",
+  "Name": "CAM_MICKYSTRIPES 5055 AZUL MAREA"
+ },
+ {
+  "Sku": "25WWCWXD5057",
+  "Name": "CAM_MARGARITA 5057 AZUL GRISACEO"
+ },
+ {
+  "Sku": "25WWDD075008",
+  "Name": "JUMPSUIT_GLENN 5008 DENIM DARK BLUE"
+ },
+ {
+  "Sku": "25WWDD145008",
+  "Name": "DENIM_TWIST 5008 DENIM DARK BLUE"
+ },
+ {
+  "Sku": "25WWDD175053",
+  "Name": "DENIM_MINIMI 5053 DENIM MEDIUM WASH"
+ },
+ {
+  "Sku": "25WWDD215053",
+  "Name": "DENIM_BOTANI 5053 DENIM MEDIUM WASH"
+ },
+ {
+  "Sku": "25WWDDX15053",
+  "Name": "REPRISE_DENI 5053 DENIM MEDIUM WASH"
+ },
+ {
+  "Sku": "25WWDDXE5007",
+  "Name": "REPRISE_DENIM 5007 DENIM LIGHT WASH"
+ },
+ {
+  "Sku": "25WWED015053",
+  "Name": "CHAQ_MAUI 5053 DENIM MEDIUM WASH"
+ },
+ {
+  "Sku": "25WWEW192000",
+  "Name": "BLAZER_FLOCKARTY 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWEW284002",
+  "Name": "CHAQ_MOUSE 4002 CAQUI"
+ },
+ {
+  "Sku": "25WWEW432000",
+  "Name": "CHAQ_BASIC 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWEW462000",
+  "Name": "COAT_PATCH 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWEW652000",
+  "Name": "CHAQ_BETA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWEWX12006",
+  "Name": "JACKET_FLOCK 2006 GRIS OSCURO"
+ },
+ {
+  "Sku": "25WWEWXD6007",
+  "Name": "CHAQ_SEREN 6007 BEIGE SAFARI"
+ },
+ {
+  "Sku": "25WWEWXF6008",
+  "Name": "CHAQ_ENRI 6008 BEIGE"
+ },
+ {
+  "Sku": "25WWEWXR5002",
+  "Name": "CHAQ_PUFFY 5002 AZUL PALO"
+ },
+ {
+  "Sku": "25WWEWXU6008",
+  "Name": "CHAQ_BORR 6008 BEIGE"
+ },
+ {
+  "Sku": "25WWFKX35001",
+  "Name": "REPRIS_FAL_VERA 5001 MARINO"
+ },
+ {
+  "Sku": "25WWFW071001",
+  "Name": "FAL_PAUL 1001 CRUDO"
+ },
+ {
+  "Sku": "25WWJF151000",
+  "Name": "JERS_GOTEMBURGO 1000 BLANCO"
+ },
+ {
+  "Sku": "25WWJF211011",
+  "Name": "JERS_WASILLA 1011 CREAM"
+ },
+ {
+  "Sku": "25WWJF261011",
+  "Name": "JERS_NOME 1011 CREAM"
+ },
+ {
+  "Sku": "25WWJF282000",
+  "Name": "JERS_KODIAK 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWJF436001",
+  "Name": "JERS_MINNIE 6001 TABACO"
+ },
+ {
+  "Sku": "25WWJF484055",
+  "Name": "JERS_TAPIZ_LACROI 4055 ANTIQUE GREEN"
+ },
+ {
+  "Sku": "25WWJFX25001",
+  "Name": "REPRIS_JERS_ANNA 5001 MARINO"
+ },
+ {
+  "Sku": "25WWJFX33000",
+  "Name": "REPRIS_JERS_MARIA 3000 CARMIN"
+ },
+ {
+  "Sku": "25WWJFX63163",
+  "Name": "REPRIS_JERS_CA 3163 PARACHUTE PURPLE"
+ },
+ {
+  "Sku": "25WWJFX82000",
+  "Name": "REPRIS_JERS_CARLA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWJFXF4001",
+  "Name": "REPRIS_JERS_OPORTO 4001 VERDE AGUA"
+ },
+ {
+  "Sku": "25WWPK052000",
+  "Name": "JUMPSUIT_NEWS 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWPW052000",
+  "Name": "PANT_FLOCK 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWPW062000",
+  "Name": "PANT_LATE 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWPW086035",
+  "Name": "PANT_SAGUN 6035 MARRON TIERRA"
+ },
+ {
+  "Sku": "25WWPWXI2000",
+  "Name": "REPRISE_PANT_SATIN 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWPWXQ6011",
+  "Name": "REPRISE_PANT_HYBRID 6011 CAMEL"
+ },
+ {
+  "Sku": "25WWSK137045",
+  "Name": "SWEAT_BASIC 7045 GOLDEN OAK"
+ },
+ {
+  "Sku": "25WWSK161001",
+  "Name": "SWEAT_DISNEY_MICKEY 1001 CRUDO"
+ },
+ {
+  "Sku": "25WWTK073045",
+  "Name": "TS_AMBER 3045 ROSA ANTIGUO"
+ },
+ {
+  "Sku": "25WWTK082000",
+  "Name": "TS_CHARLY 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWTK285001",
+  "Name": "TS_DUMAS 5001 MARINO"
+ },
+ {
+  "Sku": "25WWTK293028",
+  "Name": "TS_ALINA 3028 CEREZA"
+ },
+ {
+  "Sku": "25WWTK322000",
+  "Name": "TS_LENA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWTK383035",
+  "Name": "TS_JAPON_LACROIX 3035 ROSA PALO"
+ },
+ {
+  "Sku": "25WWTK395028",
+  "Name": "TS_DRAGON_LACROIX 5028 AZUL PLOMO"
+ },
+ {
+  "Sku": "25WWTK411001",
+  "Name": "TS_AMSTERDAM 1001 CRUDO"
+ },
+ {
+  "Sku": "25WWTK522000",
+  "Name": "TS_VIENA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWTKXD8037",
+  "Name": "REPRIS_TS_AETHE 8037 AMARILLO PASTEL"
+ },
+ {
+  "Sku": "25WWTKXT2000",
+  "Name": "REPRIS_TS_MARGARITA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWTKXV2000",
+  "Name": "REPRIS_TS_STONES 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWTKXW1000",
+  "Name": "REPRIS_TS_ROLLING 1000 BLANCO"
+ },
+ {
+  "Sku": "25WWTKXY2000",
+  "Name": "REPRIS_TS_FLORES 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWVK102000",
+  "Name": "VEST_CORAL_LACROIX 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWVK133095",
+  "Name": "VEST_JANIS 3095 MALVA"
+ },
+ {
+  "Sku": "25WWVK183086",
+  "Name": "VEST_LOLA 3086 SHADOW PURPLE"
+ },
+ {
+  "Sku": "25WWVK192000",
+  "Name": "VEST_BERNADETTE 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWVK217017",
+  "Name": "VEST_DANTE 7017 CALDERA OSCURO"
+ },
+ {
+  "Sku": "25WWVK315000",
+  "Name": "VEST_LIMBANI 5000 NAVY"
+ },
+ {
+  "Sku": "25WWVK333028",
+  "Name": "VEST_ALINA 3028 CEREZA"
+ },
+ {
+  "Sku": "25WWVK402000",
+  "Name": "VEST_MILA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWVK442000",
+  "Name": "VEST_CALMA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWVKXR2000",
+  "Name": "REPRIS_VEST_CAROLINA 2000 NEGRO"
+ },
+ {
+  "Sku": "25WWVKY05000",
+  "Name": "REPRIS_VEST_JUL 5000 NAVY"
+ },
+ {
+  "Sku": "25WWVKYL4019",
+  "Name": "REPRIS_VEST_BARE 4019 VERDE ALGA"
+ },
+ {
+  "Sku": "25WWVW203029",
+  "Name": "VEST_PETOFRUNCE 3029 ROJO OSCURO"
+ },
+ {
+  "Sku": "25WWVW235032",
+  "Name": "VEST_CAMISEROLICUAD 5032 AZUL OSCURO"
+ },
+ {
+  "Sku": "26SAXPC62000",
+  "Name": "BAG_REPRISE GALA ZALA 2000 NEGRO"
+ },
+ {
+  "Sku": "26SAXPC82000",
+  "Name": "BAG_REPRISE HAITI MINI FL 2000 NEGRO"
+ },
+ {
+  "Sku": "26SAYP123032",
+  "Name": "MONE_RODIO EMMA 2.0 BUR 3032 GRANATE"
+ },
+ {
+  "Sku": "26SAYP282000",
+  "Name": "MONE_REPRISE GALAXY LEIRE 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWCWX49019",
+  "Name": "CAM_TUTIFRUTTI 9019 TUTTI FRUTI"
+ },
+ {
+  "Sku": "26SWCWX59019",
+  "Name": "CAM_ARRCOL 9019 TUTTI FRUTI"
+ },
+ {
+  "Sku": "26SWCWX62044",
+  "Name": "CAM_BESO 2044 GRIS MARRON"
+ },
+ {
+  "Sku": "26SWDDX35053",
+  "Name": "DENIM_BRUSH 5053 DENIM MEDIUM WASH"
+ },
+ {
+  "Sku": "26SWDDX65053",
+  "Name": "REPIRSE_DENI 5053 DENIM MEDIUM WASH"
+ },
+ {
+  "Sku": "26SWDDX86000",
+  "Name": "DENIM_BOCAS_REPRISE 6000 MARRON"
+ },
+ {
+  "Sku": "26SWEWX72006",
+  "Name": "REPRISE_CHAQ_AMERIC 2006 GRIS OSCURO"
+ },
+ {
+  "Sku": "26SWEWXB3011",
+  "Name": "REPRISE_CHAQ_VIOLAS 3011 VIOLETA"
+ },
+ {
+  "Sku": "26SWEWXC2006",
+  "Name": "CHAQ_TRENCH_REPRISE 2006 GRIS OSCURO"
+ },
+ {
+  "Sku": "26SWFDX05008",
+  "Name": "REPRISE_FAL_PAR 5008 DENIM DARK BLUE"
+ },
+ {
+  "Sku": "26SWFKX02000",
+  "Name": "REPRIS_FAL_PITTENWEEM 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWFKX22000",
+  "Name": "FAL_VAL 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWJFX06000",
+  "Name": "REPRIS_JERS_INVERNESS 6000 MARRON"
+ },
+ {
+  "Sku": "26SWJFX16001",
+  "Name": "REPRIS_JERS_ABERDEEN 6001 TABACO"
+ },
+ {
+  "Sku": "26SWJFX23070",
+  "Name": "REPRIS_JERS_PERTH 3070 PURPLE POTION"
+ },
+ {
+  "Sku": "26SWJFX33051",
+  "Name": "REPRIS_JERS_PORTREE 3051 ROJO FLUOR"
+ },
+ {
+  "Sku": "26SWPKX16000",
+  "Name": "REPRIS_PANT_RADA 6000 MARRON"
+ },
+ {
+  "Sku": "26SWTKX02000",
+  "Name": "REPRIS_TS_LEO 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWTKX12000",
+  "Name": "REPRIS_TS_KIRKWALL 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWTKX36000",
+  "Name": "REPRIS_TS_ROTHESAY 6000 MARRON"
+ },
+ {
+  "Sku": "26SWTKX43058",
+  "Name": "REPRIS_TS_ABROATH 3058 ROSA TUTUPI"
+ },
+ {
+  "Sku": "26SWTKX53103",
+  "Name": "REPRIS_TS_ARROCHAR 3103 CRYSTAL PINK"
+ },
+ {
+  "Sku": "26SWTKX67001",
+  "Name": "REPRIS_TS_ADDINGTON 7001 AZAFRAN"
+ },
+ {
+  "Sku": "26SWTKX82002",
+  "Name": "REPRIS_TS_CHULA 2002 ANTRACITA"
+ },
+ {
+  "Sku": "26SWTKX92000",
+  "Name": "TS_VALE 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWVFX26000",
+  "Name": "REPRIS_VEST_KIRKWALL 6000 MARRON"
+ },
+ {
+  "Sku": "26SWVFX33011",
+  "Name": "REPRIS_VEST_VANISADO 3011 VIOLETA"
+ },
+ {
+  "Sku": "26SWVKX12000",
+  "Name": "REPRIS_VEST_LEO 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWVKX32000",
+  "Name": "REPRIS_VEST_OBAN 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWVKX49019",
+  "Name": "REPRIS_VEST_MELROSE 9019 TUTTI FRUTI"
+ },
+ {
+  "Sku": "26SWVKX56000",
+  "Name": "REPRIS_VEST_AVIEMORE 6000 MARRON"
+ },
+ {
+  "Sku": "26SWVKX72000",
+  "Name": "VEST_VALERIA 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWVKX86000",
+  "Name": "VEST_COLOMA 6000 MARRON"
+ },
+ {
+  "Sku": "26SWVW102000",
+  "Name": "VEST_CAMY 2000 NEGRO"
+ },
+ {
+  "Sku": "26SWVWX23001",
+  "Name": "VEST_GRETA 3001 FRESA"
+ },
+ {
+  "Sku": "26SWVWX39019",
+  "Name": "VEST_PARDA 9019 TUTTI FRUTI"
+ },
+ {
+  "Sku": "26SWVWX52000",
+  "Name": "VEST_LYNX 2000 NEGRO"
+ }
+]

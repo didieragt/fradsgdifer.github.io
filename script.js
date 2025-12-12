@@ -1,4 +1,4 @@
-let arr_Fras = ['630','629','628','627','626','625','624','623'];
+let arr_Fras = ['632','631','630','629','628','627','626','625','624','623'];
 let grid = document.getElementById('grid');
 let gridImg = document.getElementById('grid-img');
 let title = document.getElementById('title');
