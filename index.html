@@ -14,8 +14,9 @@
         <main class="p-2">
             <h1 id="title" class="text-center font-bold text-xl md:text-4xl pb-3">Seleccione un FRA</h1>
             <nav id="nav" class="text-sm md:text-xl sticky top-0 z-50 bg-gray-100 rounded-md shadow hidden p-3">
+                <p class="font-semibold text-gray-700 block md:hidden mx-auto text-center">#<span id="codFramobile"></span></p>
                 <ul class="flex flex-wrap items-center font-semibold text-gray-700 w-full">
-                    <li class="mr-auto">#<span id="codFra"></span></li>
+                    <li class="hidden md:inline-flex mr-auto">#<span id="codFra"></span></li>
                     <div class="text-xs md:text-xl flex justify-center gap-1 md:gap-4 flex-1 flex inline-flex">
                         <li>
                             <a data-filter="all"
