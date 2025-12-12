@@ -5,7 +5,7 @@ let title = document.getElementById('title');
 let archivoJson = '';
 let nav = document.getElementById('nav');
 let codFra = document.getElementById('codFra');
-let codFramobile = document.getElementById('codFramobile');
+//let codFramobile = document.getElementById('codFramobile');
 let label_all = document.getElementById('label_all');
 let label_woman = document.getElementById('label_woman');
 let label_man = document.getElementById('label_man');
@@ -26,7 +26,7 @@ arr_Fras.forEach(i => {
         title.style.display = 'none';
         nav.style.display = 'block';
         codFra.textContent = i;
-        codFramobile.textContent = i;
+        //codFramobile.textContent = i;
         archivoJson = `${i}.json`;
         cargarDatos(archivoJson);
     });
@@ -49,7 +49,7 @@ listaFras.addEventListener("change", () => {
         let seleccion = listaFras.value;
         archivoJson = `${seleccion}.json`;
         codFra.textContent = seleccion;
-        codFramobile.textContent = seleccion;
+        //codFramobile.textContent = seleccion;
         gridImg.innerHTML = '';
         cargarDatos(archivoJson);
     });
