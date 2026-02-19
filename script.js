@@ -1,4 +1,4 @@
-let arr_Fras = ['637','636','635','634','633','632','631','630'];
+let arr_Fras = ['639', '638', '637', '636', '635', '634', '633', '632'];
 let grid = document.getElementById('grid');
 let gridImg = document.getElementById('grid-img');
 let title = document.getElementById('title');
@@ -46,18 +46,18 @@ defaultOpc.selected = true;
 listaFras.appendChild(defaultOpc);
 
 listaFras.addEventListener("change", () => {
-        let seleccion = listaFras.value;
-        archivoJson = `${seleccion}.json`;
-        codFra.textContent = seleccion;
-        codFramobile.textContent = seleccion;
-        gridImg.innerHTML = '';
-        cargarDatos(archivoJson);
-    });
+    let seleccion = listaFras.value;
+    archivoJson = `${seleccion}.json`;
+    codFra.textContent = seleccion;
+    codFramobile.textContent = seleccion;
+    gridImg.innerHTML = '';
+    cargarDatos(archivoJson);
+});
 
 async function cargarDatos(fichero) {
 
     try {
-        const response = await fetch('./json/'+fichero);
+        const response = await fetch('./json/' + fichero);
 
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
@@ -68,7 +68,7 @@ async function cargarDatos(fichero) {
             link.addEventListener('click', e => {
                 e.preventDefault();
                 const filter = e.target.closest('a').dataset.filter;
-                Filtro(data,filter);
+                Filtro(data, filter);
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             })
         })
@@ -81,20 +81,20 @@ async function cargarDatos(fichero) {
         label_kids.textContent = cont_kids;
 
     } catch (error) {
-            console.error('Error al leer el archivo JSON:', error);
-        }
+        console.error('Error al leer el archivo JSON:', error);
+    }
 
 }
 
-function muestraProducto(data){
+function muestraProducto(data) {
     cont_woman = 0;
     cont_man = 0;
     cont_kids = 0;
-    for(let i=0; i<data.length; i++){
-        let genero = data[i].Sku.slice(3,4);
+    for (let i = 0; i < data.length; i++) {
+        let genero = data[i].Sku.slice(3, 4);
         Genero(genero);
         let sku = data[i].Sku;
-        let concatena = linkImg+sku.slice(0,8)+"_"+sku.slice(8,12)+'_X.jpg';
+        let concatena = linkImg + sku.slice(0, 8) + "_" + sku.slice(8, 12) + '_X.jpg';
         let picture = document.createElement('picture');
         let img = document.createElement('img');
         let labelname = document.createElement('p');
@@ -112,8 +112,8 @@ function muestraProducto(data){
     }
 }
 
-function Filtro (data,filter) {
-    switch(filter){
+function Filtro(data, filter) {
+    switch (filter) {
         case 'all':
             gridImg.innerHTML = '';
             muestraProducto(data);
@@ -121,41 +121,38 @@ function Filtro (data,filter) {
         case 'woman':
             gridImg.innerHTML = '';
             const gridWoman = data.filter(w => {
-                return w.Sku.slice(3,4) == 'W' || w.Sku.slice(3,4) == 'A' || w.Sku.slice(3,4) == 'S';
+                return w.Sku.slice(3, 4) == 'W' || w.Sku.slice(3, 4) == 'A' || w.Sku.slice(3, 4) == 'S';
             })
             muestraProducto(gridWoman);
             break;
         case 'man':
             gridImg.innerHTML = '';
             const gridMan = data.filter(m => {
-                return m.Sku.slice(3,4) == 'M' || m.Sku.slice(3,4) == 'Z';
+                return m.Sku.slice(3, 4) == 'M' || m.Sku.slice(3, 4) == 'Z';
             })
             muestraProducto(gridMan);
             break;
         case 'kids':
             gridImg.innerHTML = '';
             const gridKids = data.filter(k => {
-                return k.Sku.slice(3,4) == 'G' || k.Sku.slice(3,4) == 'B' || k.Sku.slice(3,4) == 'Y' || k.Sku.slice(3,4) == 'K';
+                return k.Sku.slice(3, 4) == 'G' || k.Sku.slice(3, 4) == 'B' || k.Sku.slice(3, 4) == 'Y' || k.Sku.slice(3, 4) == 'K';
             })
             muestraProducto(gridKids);
             break;
     }
 }
 
-function Genero (genero) {
-    if(genero == 'W' || genero == 'A' || genero == 'S')
-        {
-            cont_woman++;
-            return cont_woman;
-        }
-    if(genero == 'M' || genero == 'Z')
-        {
-            cont_man++;
-            return cont_man;
-        }
-    if(genero == 'G' || genero == 'B' || genero == 'Y' || genero == 'K')
-        {
-            cont_kids++;
-            return cont_kids;
-        };
+function Genero(genero) {
+    if (genero == 'W' || genero == 'A' || genero == 'S') {
+        cont_woman++;
+        return cont_woman;
+    }
+    if (genero == 'M' || genero == 'Z') {
+        cont_man++;
+        return cont_man;
+    }
+    if (genero == 'G' || genero == 'B' || genero == 'Y' || genero == 'K') {
+        cont_kids++;
+        return cont_kids;
+    };
 };
