@@ -1,0 +1,794 @@
+[
+ {
+  "Sku": "25WARO119125",
+  "Name": "LEATHER HEART BELT "
+ },
+ {
+  "Sku": "25WMEW061001",
+  "Name": "Patchwork Jacket "
+ },
+ {
+  "Sku": "26SARD035005",
+  "Name": "Blue denim belt "
+ },
+ {
+  "Sku": "26SAYD105005",
+  "Name": "Mini denim crossbody bag "
+ },
+ {
+  "Sku": "26SAYP383026",
+  "Name": "Crossbody wallet flower "
+ },
+ {
+  "Sku": "26SMEW045031",
+  "Name": "Long striped wool coat "
+ },
+ {
+  "Sku": "26SMSK035001",
+  "Name": "Mosaic sweatshirt "
+ },
+ {
+  "Sku": "26SWEW231008",
+  "Name": "Asymmetrical striped blazer "
+ },
+ {
+  "Sku": "26SAKY133004",
+  "Name": "Large multiposition voyager backpack "
+ },
+ {
+  "Sku": "26SAKY173122",
+  "Name": "Large brown backpack "
+ },
+ {
+  "Sku": "26SAXAX03044",
+  "Name": "Bag Designed By Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "26SAYP372000",
+  "Name": "Crossbody wallet seams "
+ },
+ {
+  "Sku": "26SGTKX13054",
+  "Name": "Double-sleeve t-shirt minnie mouse™ "
+ },
+ {
+  "Sku": "26SWJFXB2000",
+  "Name": "Crochet sweater hearts "
+ },
+ {
+  "Sku": "26SWTK013024",
+  "Name": "Buttoned flocked T-shirt "
+ },
+ {
+  "Sku": "26SWVKX05003",
+  "Name": "Flocked midi dress "
+ },
+ {
+  "Sku": "26SWVKXO5022",
+  "Name": "Long floral dress M. C. Lacroix "
+ },
+ {
+  "Sku": "26SWVWXN2000",
+  "Name": "Long-sleeved dress M. C. Lacroix "
+ },
+ {
+  "Sku": "26SGJF031001",
+  "Name": "Crochet sweater with fringes "
+ },
+ {
+  "Sku": "26SGTKX02000",
+  "Name": "Three-quarter sleeve t-shirt with stars "
+ },
+ {
+  "Sku": "26SGVD015007",
+  "Name": "Denim floral dress "
+ },
+ {
+  "Sku": "26SWBW147002",
+  "Name": "Petal Strap Blouse "
+ },
+ {
+  "Sku": "26SWPW522000",
+  "Name": "Tropical Fluid Trousers "
+ },
+ {
+  "Sku": "26SGKK023009",
+  "Name": "Leggings flowers "
+ },
+ {
+  "Sku": "26SGSK061001",
+  "Name": "Mickey Mouse™ Kiss Sweatshirt "
+ },
+ {
+  "Sku": "26SWBW072006",
+  "Name": "Pixelated flower blouse "
+ },
+ {
+  "Sku": "26SWBW131000",
+  "Name": "Blouse Embroidered Sleeves "
+ },
+ {
+  "Sku": "26SWCW362000",
+  "Name": "Tropical shirt "
+ },
+ {
+  "Sku": "26SWEW242006",
+  "Name": "Striped patch blazer "
+ },
+ {
+  "Sku": "26SWFFX24012",
+  "Name": "Tube knit skirt "
+ },
+ {
+  "Sku": "26SWPW533049",
+  "Name": "Tropical Wrap Jumpsuit "
+ },
+ {
+  "Sku": "26SWVW187019",
+  "Name": "Two-tone floral dress "
+ },
+ {
+  "Sku": "26SAXA859019",
+  "Name": "Printed arty bag "
+ },
+ {
+  "Sku": "26SAXD339019",
+  "Name": "Medium Graffiti Lips Bag "
+ },
+ {
+  "Sku": "26SAXD449019",
+  "Name": "Denim patch bag "
+ },
+ {
+  "Sku": "26SAXD484092",
+  "Name": "Denim charm bag "
+ },
+ {
+  "Sku": "26SAXPCN2000",
+  "Name": "Medium ruched bag "
+ },
+ {
+  "Sku": "26SAXPCO9019",
+  "Name": "Small printed bag with appliqués "
+ },
+ {
+  "Sku": "26SGDD025053",
+  "Name": "Happy jeans trousers "
+ },
+ {
+  "Sku": "26SGSK051001",
+  "Name": "Wide-sleeve lettering sweatshirt "
+ },
+ {
+  "Sku": "26SWEDXA5053",
+  "Name": "Denim jacket logo "
+ },
+ {
+  "Sku": "26SWEW331001",
+  "Name": "Floral patch jacket "
+ },
+ {
+  "Sku": "26SWPW543049",
+  "Name": "Tropical short jumpsuit "
+ },
+ {
+  "Sku": "26SWTK511000",
+  "Name": "T-shirt logo face "
+ },
+ {
+  "Sku": "26SWVKXL2000",
+  "Name": "Dress Designed By mr. christian lacroix "
+ },
+ {
+  "Sku": "26SWVW312000",
+  "Name": "Flared dress flowers "
+ },
+ {
+  "Sku": "26SBSK033009",
+  "Name": "Sweatshirt Embroidered Sun "
+ },
+ {
+  "Sku": "26SGFD035007",
+  "Name": "Peplum denim floral skirt "
+ },
+ {
+  "Sku": "26SGKKX02000",
+  "Name": "Leggings With Worn Effect "
+ },
+ {
+  "Sku": "26SMJF085004",
+  "Name": "Still Life Texture Sweater "
+ },
+ {
+  "Sku": "26SMSK025000",
+  "Name": "Mickey Mouse™ Tie-Dye Sweatshirt "
+ },
+ {
+  "Sku": "26SWBW043092",
+  "Name": "Gradient blouse "
+ },
+ {
+  "Sku": "26SWEW322000",
+  "Name": "Blazer collage "
+ },
+ {
+  "Sku": "26SWFW013092",
+  "Name": "Gradient midi skirt "
+ },
+ {
+  "Sku": "26SWTK035000",
+  "Name": "Big flower t-shirt "
+ },
+ {
+  "Sku": "26SWTKXI2000",
+  "Name": "T-shirt designed by mr. christian lacroix "
+ },
+ {
+  "Sku": "26SWVKX86000",
+  "Name": "Flocked midi dress "
+ },
+ {
+  "Sku": "26SWVKXI4001",
+  "Name": "Gradient tulle dress "
+ },
+ {
+  "Sku": "26SWVKXN3044",
+  "Name": "Dress Designed By mr. christian lacroix "
+ },
+ {
+  "Sku": "26SWVW662000",
+  "Name": "Tropical halter dress "
+ },
+ {
+  "Sku": "26SWPW572000",
+  "Name": "Tropical printed jumpsuit "
+ },
+ {
+  "Sku": "26SWSK092042",
+  "Name": "Mickey Mouse™ Sweatshirt "
+ },
+ {
+  "Sku": "26SWVW632000",
+  "Name": "Long tropical dress "
+ },
+ {
+  "Sku": "26SWVWX66004",
+  "Name": "Midi seams dress "
+ },
+ {
+  "Sku": "26SWCWX62044",
+  "Name": "Long sleeve shirt "
+ },
+ {
+  "Sku": "26SWEW192000",
+  "Name": "Bimaterial blazer "
+ },
+ {
+  "Sku": "26SWPW563049",
+  "Name": "Tropical trousers "
+ },
+ {
+  "Sku": "26SWSK172035",
+  "Name": "Sweatshirt Mickey y Minnie Mouse™ "
+ },
+ {
+  "Sku": "26SWTK451000",
+  "Name": "Mickey and Minnie Mouse™ kiss t-shirt "
+ },
+ {
+  "Sku": "26SWTKX12000",
+  "Name": "Long-sleeved t-shirt with high neck "
+ },
+ {
+  "Sku": "26SWTKXA6000",
+  "Name": "Flocked Zipper T-shirt "
+ },
+ {
+  "Sku": "26SWVFX64012",
+  "Name": "Knitted strappy dress "
+ },
+ {
+  "Sku": "26SWVK377002",
+  "Name": "Side flowers dress "
+ },
+ {
+  "Sku": "26SWVW511008",
+  "Name": "Embroidered Strap Dress With Branches "
+ },
+ {
+  "Sku": "26SMCW234003",
+  "Name": "Shirt for men jacquard "
+ },
+ {
+  "Sku": "26SWCW291000",
+  "Name": "Orchid shirt m. christian lacroix "
+ },
+ {
+  "Sku": "26SWCW301000",
+  "Name": "Short-sleeve embroidered shirt "
+ },
+ {
+  "Sku": "26SWCW343049",
+  "Name": "Short-sleeve tropical shirt "
+ },
+ {
+  "Sku": "26SWDD165053",
+  "Name": "Mickey Mouse™ Hearts Jeans "
+ },
+ {
+  "Sku": "26SWDD461001",
+  "Name": "Skinny jeans Masha Popova "
+ },
+ {
+  "Sku": "26SWFDX15008",
+  "Name": "Denim jacquard skirt "
+ },
+ {
+  "Sku": "26SWFW137002",
+  "Name": "Asymmetrical petal skirt "
+ },
+ {
+  "Sku": "26SWJF102000",
+  "Name": "Fine jersey lettering "
+ },
+ {
+  "Sku": "26SWJF112000",
+  "Name": "Fine Floral Sweater "
+ },
+ {
+  "Sku": "26SWPW262000",
+  "Name": "Straight bimaterial trousers "
+ },
+ {
+  "Sku": "26SWTK101000",
+  "Name": "T-shirt rib lettering "
+ },
+ {
+  "Sku": "26SWTK182000",
+  "Name": "T-shirt opening lettering "
+ },
+ {
+  "Sku": "26SWVK365001",
+  "Name": "Pixelated ruffle dress "
+ },
+ {
+  "Sku": "26SWVKY12000",
+  "Name": "Asymmetric sleeveless dress "
+ },
+ {
+  "Sku": "25WWVD035053",
+  "Name": "Denim combined dress "
+ },
+ {
+  "Sku": "26SAWA319019",
+  "Name": "Jungle Foulard "
+ },
+ {
+  "Sku": "26SGDDX03008",
+  "Name": "Washed-effect denim trousers "
+ },
+ {
+  "Sku": "26SWCWX59019",
+  "Name": "Multicolor printed shirt "
+ },
+ {
+  "Sku": "26SWDD205053",
+  "Name": "Embroidered culotte jeans "
+ },
+ {
+  "Sku": "26SWJF012000",
+  "Name": "Fine Wrap Sweater "
+ },
+ {
+  "Sku": "26SWJF152002",
+  "Name": "Fine Oslo sweater "
+ },
+ {
+  "Sku": "26SWPW072000",
+  "Name": "Straight trousers pockets "
+ },
+ {
+  "Sku": "26SWPWX82000",
+  "Name": "Cargo Capri Pants "
+ },
+ {
+  "Sku": "26SWVFX96000",
+  "Name": "Knitted strappy dress "
+ },
+ {
+  "Sku": "26SWVW569019",
+  "Name": "Dress Designed By mr. christian lacroix "
+ },
+ {
+  "Sku": "26SWVW642000",
+  "Name": "Short tropical dress "
+ },
+ {
+  "Sku": "26SGDD045053",
+  "Name": "Denim skort "
+ },
+ {
+  "Sku": "26SMPW151020",
+  "Name": "Long floral trousers "
+ },
+ {
+  "Sku": "26SMTK123005",
+  "Name": "Floral printed t-shirt "
+ },
+ {
+  "Sku": "26SWCW211000",
+  "Name": "Shirt collage flowers "
+ },
+ {
+  "Sku": "26SWDD395053",
+  "Name": "Two-material denim trousers "
+ },
+ {
+  "Sku": "26SWEDX55008",
+  "Name": "Denim jacket coat "
+ },
+ {
+  "Sku": "26SWEW032007",
+  "Name": "Checkered lettering blazer "
+ },
+ {
+  "Sku": "26SWJF352000",
+  "Name": "Thin sweater plants "
+ },
+ {
+  "Sku": "26SWJF453049",
+  "Name": "Sweater designed by mr. christian lacroix "
+ },
+ {
+  "Sku": "26SWJFX06000",
+  "Name": "Chocolate knit jacket "
+ },
+ {
+  "Sku": "26SWSK162013",
+  "Name": "Sweatshirt collage drawing "
+ },
+ {
+  "Sku": "26SWTK192000",
+  "Name": "T-shirt With Snap Fasteners And Tie "
+ },
+ {
+  "Sku": "26SWVK013024",
+  "Name": "Flocked strap dress "
+ },
+ {
+  "Sku": "26SWVK262000",
+  "Name": "Long floral dress "
+ },
+ {
+  "Sku": "26SWVWX39019",
+  "Name": "Ruched Asymmetric Dress "
+ },
+ {
+  "Sku": "25SWPWX72000",
+  "Name": "Satin cargo pants "
+ },
+ {
+  "Sku": "26SMEW091020",
+  "Name": "Patchwork coat "
+ },
+ {
+  "Sku": "26SWBWX44006",
+  "Name": "Printed sleeveless blouse "
+ },
+ {
+  "Sku": "26SWCK025054",
+  "Name": "Water Flower Shirt "
+ },
+ {
+  "Sku": "26SWJF085001",
+  "Name": "Fine Floral-Texture Sweater "
+ },
+ {
+  "Sku": "26SWJFX85025",
+  "Name": "Double zipper cardigan "
+ },
+ {
+  "Sku": "26SWPK085054",
+  "Name": "Fluid Water Print Trousers "
+ },
+ {
+  "Sku": "26SWPKX16000",
+  "Name": "Long flocked trousers "
+ },
+ {
+  "Sku": "26SWPW053039",
+  "Name": "Fluid trousers designed by Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "26SWPW385002",
+  "Name": "Flowy floral trousers "
+ },
+ {
+  "Sku": "26SWTK061000",
+  "Name": "Short-sleeved heart t-shirt "
+ },
+ {
+  "Sku": "26SWTK071000",
+  "Name": "Logo knit t-shirt "
+ },
+ {
+  "Sku": "26SWTK073005",
+  "Name": "Logo knit t-shirt "
+ },
+ {
+  "Sku": "26SWVFX33011",
+  "Name": "Iridescent dress "
+ },
+ {
+  "Sku": "26SWVW507002",
+  "Name": "Asymmetric floral dress "
+ },
+ {
+  "Sku": "26SWVW652000",
+  "Name": "Tropical Bandeau Dress "
+ },
+ {
+  "Sku": "26SWJF101001",
+  "Name": "Jersey sleeves lettering "
+ },
+ {
+  "Sku": "26SWTK565054",
+  "Name": "Floral water t-shirt "
+ },
+ {
+  "Sku": "26SWTK612017",
+  "Name": "Short-Sleeved T-Shirt Masha Popova "
+ },
+ {
+  "Sku": "26SWVK562000",
+  "Name": "Dress masha popova "
+ },
+ {
+  "Sku": "26SBTK011001",
+  "Name": "Printed Mickey Mouse™ t-shirt "
+ },
+ {
+  "Sku": "26SWCW253062",
+  "Name": "Shirt With Ties Designed By Mr. Christian Lacroix "
+ },
+ {
+  "Sku": "26SWFD065089",
+  "Name": "Asymmetrical denim skirt "
+ },
+ {
+  "Sku": "26SWPW415032",
+  "Name": "Long jumpsuit zipper "
+ },
+ {
+  "Sku": "25WWDD175053",
+  "Name": "mickey™ culotte jeans "
+ },
+ {
+  "Sku": "26SWCW191000",
+  "Name": "Mickey And Minnie Mouse™ Shirt "
+ },
+ {
+  "Sku": "26SWDDXM5008",
+  "Name": "Slim jeans "
+ },
+ {
+  "Sku": "26SWDDX35053",
+  "Name": "Wide leg splatter jeans "
+ },
+ {
+  "Sku": "26SWTKXM3049",
+  "Name": "Floral Print T-shirt "
+ },
+ {
+  "Sku": "26SWVK221000",
+  "Name": "Midi embroidered dress "
+ },
+ {
+  "Sku": "26SWVK304031",
+  "Name": "Reversible flower dress "
+ },
+ {
+  "Sku": "26SWVKXM2000",
+  "Name": "Landscape mirror dress "
+ },
+ {
+  "Sku": "25WWVK333028",
+  "Name": "Midi flocked dress "
+ },
+ {
+  "Sku": "26SWJFXI4001",
+  "Name": "Zigzag crochet sweater "
+ },
+ {
+  "Sku": "26SWTKXN3049",
+  "Name": "Floral T-shirt "
+ },
+ {
+  "Sku": "26SWVK186014",
+  "Name": "Textured dress "
+ },
+ {
+  "Sku": "26SWDD015053",
+  "Name": "Amalfi Jeans Trousers "
+ },
+ {
+  "Sku": "26SWPWX48006",
+  "Name": "Hybrid printed trousers "
+ },
+ {
+  "Sku": "26SWPWXB6004",
+  "Name": "Gradient capri pants "
+ },
+ {
+  "Sku": "26SWPWXE3035",
+  "Name": "Recycled pink trousers "
+ },
+ {
+  "Sku": "26SWTK031001",
+  "Name": "Hibiscus t-shirt "
+ },
+ {
+  "Sku": "26SWTK122063",
+  "Name": "T-shirt photo tied "
+ },
+ {
+  "Sku": "26SWTK313098",
+  "Name": "Knot neckline T-shirt "
+ },
+ {
+  "Sku": "26SWTK641000",
+  "Name": "Fitted T-shirt Boys Lie "
+ },
+ {
+  "Sku": "26SWTK643026",
+  "Name": "Fitted T-shirt Boys Lie "
+ },
+ {
+  "Sku": "26SWTKXK1000",
+  "Name": "Printed face t-shirt "
+ },
+ {
+  "Sku": "26SWTKXZ2000",
+  "Name": "Printed high neck t-shirt "
+ },
+ {
+  "Sku": "26SWVK391001",
+  "Name": "Dress Designed By mr. christian lacroix "
+ },
+ {
+  "Sku": "26SWVW602000",
+  "Name": "Dress Designed By mr. christian lacroix "
+ },
+ {
+  "Sku": "26SWBW165055",
+  "Name": "Embroidered balloon blouse "
+ },
+ {
+  "Sku": "26SWCWXB3049",
+  "Name": "Floral printed shirt "
+ },
+ {
+  "Sku": "26SWDDXN5053",
+  "Name": "Flared denim trousers "
+ },
+ {
+  "Sku": "26SWFWX61020",
+  "Name": "Asymmetric midi skirt "
+ },
+ {
+  "Sku": "26SWJF133021",
+  "Name": "Fine knit collage sweater "
+ },
+ {
+  "Sku": "26SWTKXP1000",
+  "Name": "Printed T-shirt Vase "
+ },
+ {
+  "Sku": "26SWVK389019",
+  "Name": "Draped long dress "
+ },
+ {
+  "Sku": "26SWVKXG3049",
+  "Name": "Printed fitted dress "
+ },
+ {
+  "Sku": "26SWVKXJ8018",
+  "Name": "Asymmetric printed dress "
+ },
+ {
+  "Sku": "26SWDD245053",
+  "Name": "Crochet Patch Denim Trousers "
+ },
+ {
+  "Sku": "26SWFK046014",
+  "Name": "Long skirt texture "
+ },
+ {
+  "Sku": "26SWJFXJ4001",
+  "Name": "Blue knit sweater "
+ },
+ {
+  "Sku": "26SWTK156014",
+  "Name": "Textured t-shirt "
+ },
+ {
+  "Sku": "26SWTKXL1000",
+  "Name": "Fitted flower t-shirt "
+ },
+ {
+  "Sku": "26SWTKXL2000",
+  "Name": "Fitted flower t-shirt "
+ },
+ {
+  "Sku": "26SWTKXR4001",
+  "Name": "Draped asymmetrical top "
+ },
+ {
+  "Sku": "26SWVWXB4006",
+  "Name": "Midi dress with straps "
+ },
+ {
+  "Sku": "26SWJFXC3049",
+  "Name": "Multicolored mottled sweater "
+ },
+ {
+  "Sku": "26SWJFXD6000",
+  "Name": "Fine Knit Sweater With Buttons "
+ },
+ {
+  "Sku": "26SWTKXD5003",
+  "Name": "Flocked midi dress "
+ },
+ {
+  "Sku": "26SWVWXC3049",
+  "Name": "Sequin flower dress "
+ },
+ {
+  "Sku": "26SWFWX23049",
+  "Name": "Printed mini skirt "
+ },
+ {
+  "Sku": "26SWVFX86000",
+  "Name": "Plain strappy dress "
+ },
+ {
+  "Sku": "26SWDDXG3049",
+  "Name": "Printed denim trousers "
+ },
+ {
+  "Sku": "26SWTFX36000",
+  "Name": "Ribbed Strappy T-Shirt "
+ },
+ {
+  "Sku": "26SWPW392007",
+  "Name": "Plaid lettering trousers "
+ },
+ {
+  "Sku": "26SWTK499019",
+  "Name": "T-shirt designed by mr. christian lacroix "
+ },
+ {
+  "Sku": "25WWTFX05025",
+  "Name": "Zip-knit T-shirt "
+ },
+ {
+  "Sku": "26SWPW255002",
+  "Name": "Cargo pants with pockets "
+ },
+ {
+  "Sku": "26SWTK224031",
+  "Name": "Floral boat neck t-shirt "
+ },
+ {
+  "Sku": "26SWVW082023",
+  "Name": "Draped A-line dress "
+ },
+ {
+  "Sku": "26SWDDX65053",
+  "Name": "Flare jeans "
+ },
+ {
+  "Sku": "26SWFKX02000",
+  "Name": "Printed lips skirt "
+ }
+]
