@@ -54,6 +54,23 @@
             </div>
             <div id="grid-img" class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center p-3">
             </div>
+            <!-- Contenedor oculto para la card -->
+                <div id="stockCard" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); background:white; border:1px solid #333; 
+                            padding:20px; box-shadow:0 4px 8px rgba(0,0,0,0.3); z-index:1000;">
+                    <h3 class="text-center bg-gray-300 border border-2 py-3 font-bold text-sm md:text-lg" id="cardTitle"></h3>
+                    <table class="min-w-full border border-gray-300 rounded-lg overflow-hidden shadow-md border-separate border-spacing-1 my-2 py-2 text-sm md:text-lg">
+                        <thead class="bg-gray-100">
+                            <tr id="tiendas">
+                                <th class="px-4 py-2 text-center font-semibold text-gray-700 uppercase tracking-wide">Talla</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tallas" class="divide-y divide-gray-200">
+                        </tbody>
+                    </table>
+                    <div class="flex items-center justify-center h-full p-3">
+                        <button class="border rounded-lg bg-gray-200 p-2 w-full hover:bg-gray-300 text-sm md:text-lg" onclick="cerrarCard()">Cerrar</button>
+                    </div>
+                </div>
         </main>
         <footer class="bg-gray-200 p-2 flex flex-col justify-center">
             <img class="h-6 md:h-8" src="./img/LogoDesigual.svg" alt="">

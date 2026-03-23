@@ -1,0 +1,3668 @@
+[
+ {
+  "Material": "26SWDD065053",
+  "Tallas": "34",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD065053",
+  "Tallas": "36",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD065053",
+  "Tallas": "38",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD065053",
+  "Tallas": "40",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD065053",
+  "Tallas": "42",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD065053",
+  "Tallas": "44",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDX95007",
+  "Tallas": "36",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDX95007",
+  "Tallas": "38",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDX95007",
+  "Tallas": "40",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDX95007",
+  "Tallas": "42",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDX95007",
+  "Tallas": "44",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK381000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK381000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK381000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK381000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK635003",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK635003",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK641000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK641000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK641000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK641000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK419019",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK419019",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKXD2000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKXD2000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKXD2000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKXD2000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKXD2000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWBW165055",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWBW165055",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWBW165055",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWBW165055",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWBW165055",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD245053",
+  "Tallas": "34",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD245053",
+  "Tallas": "36",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD245053",
+  "Tallas": "38",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD245053",
+  "Tallas": "40",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD245053",
+  "Tallas": "42",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD245053",
+  "Tallas": "44",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFK046014",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFK046014",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFK046014",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFK046014",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFK046014",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJFX85025",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJFX85025",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJFX85025",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX22000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX22000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX22000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX22000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX22000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK381000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK635003",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK635003",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB5025",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB5025",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB5025",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB5025",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB5025",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXI2000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXI2000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXI2000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXI2000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVFX43000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVFX43000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVFX43000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXPCK3026",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXPCL3026",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXPCM3026",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAKP532000",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SARO022004",
+  "Tallas": "U",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SARO039125",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SARO069125",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXD373192",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXD395005",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXO011014",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXP731008",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAYP352000",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVWX75031",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SARO022004",
+  "Tallas": "U",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXPCH2000",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXPCI2000",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SAXPCJ2000",
+  "Tallas": "U",
+  "Cantidad": 3,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF091001",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVD025008",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVD025008",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVD025008",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVD025008",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVD025008",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVWX75031",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVWX75031",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVWX75031",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVWX75031",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDXK5053",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDXK5053",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDXK5053",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDXK5053",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDDXK5053",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWEWXD3005",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWEWXD3005",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWEWXD3005",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWEWXD3005",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPWXA1001",
+  "Tallas": "34",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPWXA1001",
+  "Tallas": "36",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPWXA1001",
+  "Tallas": "38",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPWXA1001",
+  "Tallas": "40",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPWXA1001",
+  "Tallas": "42",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPWXA1001",
+  "Tallas": "44",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF091001",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF091001",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF091001",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTF091001",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVDX05053",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVDX05053",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVDX05053",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVDX05053",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVDX05053",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWEWXD3005",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF073116",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF073116",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF073116",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF073116",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF073116",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWSK252000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWSK252000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWSK252000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWSK252000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWSK252000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK052000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK052000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK052000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK052000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK052000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB3049",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB3049",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB3049",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB3049",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXB3049",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK419019",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK419019",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK419019",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "34",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "36",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "38",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "40",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "42",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "44",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFW181008",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFW181008",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFW181008",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFW181008",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWFW181008",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF112000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF112000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF112000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF112000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJF112000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWJFX85025",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX16000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX16000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX16000",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX16000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWPKX16000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTFX23000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTFX23000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTFX23000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK313098",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK313098",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK313098",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK313098",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK193098",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK193098",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK193098",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK193098",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVK193098",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKX86000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKX86000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKX86000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKX86000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVKX86000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW511008",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW511008",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW511008",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWVW511008",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTK635003",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "26SWTKXI2000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F249"
+ },
+ {
+  "Material": "25SWJF123011",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCWX62044",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCWX62044",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXN5053",
+  "Tallas": "34",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW053039",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW053039",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXH3193",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXH3193",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVFX86000",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVFX86000",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVFX86000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVFX86000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVFX86000",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXG3049",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXG3049",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXG3049",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXG3049",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXG3049",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXB4006",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXB4006",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXB4006",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "25WWDD095008",
+  "Tallas": "36",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMSK025000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMSK025000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWBWX44006",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWBWX44006",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW071000",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW071000",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD015053",
+  "Tallas": "40",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD095008",
+  "Tallas": "38",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXJ4001",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXJ4001",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXJ4001",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXJ4001",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXJ4001",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWSK092042",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK071000",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK479019",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK479019",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK479019",
+  "Tallas": "S",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL1000",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL1000",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL1000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL1000",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL1000",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW511008",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW511008",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW511008",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW511008",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW569019",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW111000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW111000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXM5008",
+  "Tallas": "36",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXM5008",
+  "Tallas": "38",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXM5008",
+  "Tallas": "40",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXM5008",
+  "Tallas": "42",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXM5008",
+  "Tallas": "44",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFWX61020",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFWX61020",
+  "Tallas": "M",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFWX61020",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFWX61020",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF012000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXD6000",
+  "Tallas": "L",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXD6000",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXD6000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXN3049",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXN3049",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXP1000",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXP1000",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXP1000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXP1000",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXP1000",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXM2000",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXM2000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW432000",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCW295001",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCW295001",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW071000",
+  "Tallas": "M",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW071000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW291000",
+  "Tallas": "L\/XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW291000",
+  "Tallas": "S\/M",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEW322000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFK023098",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW385002",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW385002",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW385002",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW385002",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK073005",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "L",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "S",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVF198017",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK391001",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "25WAXPCN2000",
+  "Tallas": "U",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEDX55008",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEDX55008",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEDX55008",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEWX72006",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFX23070",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXC3049",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SAXD589019",
+  "Tallas": "U",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SAXD599019",
+  "Tallas": "U",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEW102000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEW102000",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKX92000",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKX92000",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXR4001",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXR4001",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXR4001",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXR4001",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXR4001",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXJ8018",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXJ8018",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDX65053",
+  "Tallas": "38",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW392007",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXB6004",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXB6004",
+  "Tallas": "M",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXB6004",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXB6004",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXB6004",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK122063",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK122063",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK122063",
+  "Tallas": "S",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK122063",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK304031",
+  "Tallas": "L",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK304031",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK304031",
+  "Tallas": "S",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXJ8018",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXJ8018",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXJ8018",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXJ8018",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXC3049",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXC3049",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXC3049",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGTKX02000",
+  "Tallas": "13\/14",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMTK123005",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWBW043092",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWBW131000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW171008",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXL1001",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFWX23049",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFWX23049",
+  "Tallas": "M",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFWX23049",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFWX23049",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF085001",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFX16001",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFX33051",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXC3049",
+  "Tallas": "L",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXC3049",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWX48006",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWX48006",
+  "Tallas": "M",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWX48006",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWX48006",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWX48006",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK304031",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK304031",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXC3049",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXC3049",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEW192000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEWX72006",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEWX72006",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK511000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK186014",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "S",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK221000",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWX42000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGED059019",
+  "Tallas": "11\/12",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGED059019",
+  "Tallas": "7\/8",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGED059019",
+  "Tallas": "9\/10",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVD029019",
+  "Tallas": "11\/12",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVD029019",
+  "Tallas": "13\/14",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVD029019",
+  "Tallas": "3\/4",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVD029019",
+  "Tallas": "5\/6",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVD029019",
+  "Tallas": "7\/8",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWBW072006",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWBW072006",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF152002",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "L",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "S",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK389019",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKX62000",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "S",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWX42000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGED045053",
+  "Tallas": "13\/14",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGTK101000",
+  "Tallas": "13\/14",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGTK101000",
+  "Tallas": "9\/10",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCWX59019",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCWX59019",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWED045053",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEW032007",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEW032007",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEW331001",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "L",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "S",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTF046039",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK182000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK182000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK441000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK641000",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK641000",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK641000",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL2000",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL2000",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL2000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL2000",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL2000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "L",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "S",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW251008",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW411000",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW584086",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWX39019",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMSK112036",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD205053",
+  "Tallas": "34",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD205053",
+  "Tallas": "40",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD205053",
+  "Tallas": "42",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWEW302053",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFK046014",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFK046014",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFK046014",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFK046014",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF453049",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW415032",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW415032",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "M",
+  "Cantidad": 6,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "S",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK156014",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK643026",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK643026",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXK1000",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXK1000",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK487010",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWX39019",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "25WWDD135007",
+  "Tallas": "40",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVW079019",
+  "Tallas": "11\/12",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVW079019",
+  "Tallas": "3\/4",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVW079019",
+  "Tallas": "7\/8",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVW079019",
+  "Tallas": "9\/10",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCW315000",
+  "Tallas": "L",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCW315000",
+  "Tallas": "M",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCW315000",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCW315000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW082000",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW211000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW211000",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW211000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "40",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "42",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDX86000",
+  "Tallas": "40",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFW181008",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF101001",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF101001",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF101001",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF102000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF102000",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF102000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF112000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW415032",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW415032",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW415032",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK013024",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK423018",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK451000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKX53103",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKX86000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVW602000",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCW295001",
+  "Tallas": "L",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCW295001",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCW295001",
+  "Tallas": "S",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW181000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCWXB3049",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCWXB3049",
+  "Tallas": "M",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCWXB3049",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCWXB3049",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCWXB3049",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "34",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "36",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "38",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDD455053",
+  "Tallas": "44",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFW181008",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFW181008",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWFW181008",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW499019",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPW499019",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTFX36000",
+  "Tallas": "L",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTFX36000",
+  "Tallas": "M",
+  "Cantidad": 5,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTFX36000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK035000",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXM3049",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXM3049",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXM3049",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXM3049",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK262000",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK262000",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXN5053",
+  "Tallas": "36",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXN5053",
+  "Tallas": "38",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXN5053",
+  "Tallas": "40",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXN5053",
+  "Tallas": "42",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDXN5053",
+  "Tallas": "44",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXI4001",
+  "Tallas": "L",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXI4001",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFXI4001",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK365001",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXM2000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXM2000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXM2000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVKXM2000",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDX35053",
+  "Tallas": "34",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDX35053",
+  "Tallas": "36",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWDDX35053",
+  "Tallas": "38",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJF352000",
+  "Tallas": "M",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXE3035",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXE3035",
+  "Tallas": "M",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXE3035",
+  "Tallas": "S",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXE3035",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWPWXE3035",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXZ2000",
+  "Tallas": "L",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXZ2000",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXZ2000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXZ2000",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXZ2000",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK465000",
+  "Tallas": "L",
+  "Cantidad": 3,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK465000",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK465000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK465000",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVK465000",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXB4006",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWVWXB4006",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGED059019",
+  "Tallas": "13\/14",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGED059019",
+  "Tallas": "3\/4",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGED059019",
+  "Tallas": "5\/6",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGTK101000",
+  "Tallas": "11\/12",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGTK101000",
+  "Tallas": "3\/4",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGTK101000",
+  "Tallas": "7\/8",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVD029019",
+  "Tallas": "9\/10",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVW079019",
+  "Tallas": "13\/14",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SGVW079019",
+  "Tallas": "5\/6",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SMCD025098",
+  "Tallas": "XL",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWBWX44006",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWCW071000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWJFX16001",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWSK143162",
+  "Tallas": "M",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWSK143162",
+  "Tallas": "S",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK122063",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTK423018",
+  "Tallas": "L",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXA6000",
+  "Tallas": "M",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXH3193",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXK1000",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXK1000",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXK1000",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXL2000",
+  "Tallas": "XS",
+  "Cantidad": 1,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXM3049",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXN3049",
+  "Tallas": "S",
+  "Cantidad": 4,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXN3049",
+  "Tallas": "XL",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ },
+ {
+  "Material": "26SWTKXN3049",
+  "Tallas": "XS",
+  "Cantidad": 2,
+  "Tienda": "F099"
+ }
+]

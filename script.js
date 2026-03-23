@@ -99,17 +99,105 @@ function muestraProducto(data) {
         let img = document.createElement('img');
         let labelname = document.createElement('p');
         let labelSku = document.createElement('p');
+        let linkStock = document.createElement('a')
         let name = data[i].Name;
         picture.className = 'bg-gray-200 border border-gray-700 pb-2 text-center font-semibold text-xs md:text-lg';
         img.className = 'p-2';
         img.setAttribute('src', concatena);
         labelname.textContent = name;
         labelSku.textContent = sku;
+
+        linkStock.textContent = "Ver Stock"
+        linkStock.href = "#"
+        linkStock.className = "text-black-600 hover:underline";
+
         gridImg.appendChild(picture);
         picture.appendChild(img);
         picture.appendChild(labelname);
         picture.appendChild(labelSku);
+        picture.appendChild(linkStock);
+
+        linkStock.addEventListener("click", e => {
+            e.preventDefault();
+            mostrarCard(sku);
+        })
     }
+}
+
+function mostrarCard(sku){
+    document.getElementById("stockCard").style.display = "block";
+    document.getElementById("cardTitle").textContent = sku;
+
+    let tiendas = document.getElementById("tiendas")
+    let tallas = document.getElementById("tallas")
+    cargarDatosDos(tiendas,tallas,sku)
+}
+
+async function cargarDatosDos(tiendas,tallas,refe) {
+    const arr_tiendas = ["F099", "F220", "F249", "F258"]
+    try {
+        const response = await fetch("./json/stock/"+archivoJson);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+
+        }
+        //console.log(archivoJson)
+        const data = await response.json();
+
+        while (tiendas.children.length > 1) {
+            tiendas.removeChild(tiendas.lastChild);
+        }
+
+        arr_tiendas.forEach(element => {
+            let th = document.createElement("th");
+            th.textContent = element
+            tiendas.appendChild(th)
+        });
+
+        let mapaTallas = {};
+
+        data.forEach(item => {
+            if (item.Material === refe) {
+                if (!mapaTallas[item.Tallas]) {
+                    mapaTallas[item.Tallas] = {};
+                }
+                if (!mapaTallas[item.Tallas][item.Tienda]) {
+                    mapaTallas[item.Tallas][item.Tienda] = 0;
+                }
+                mapaTallas[item.Tallas][item.Tienda] += item.Cantidad;
+            }
+        });
+
+        tallas.innerHTML = ""
+        Object.keys(mapaTallas).forEach((talla,index) => {
+            let tr = document.createElement("tr");
+
+            tr.className = (index % 2 === 0) ? "bg-white hover:bg-gray-200" : "bg-gray-100 hover:bg-gray-200";
+
+            // Columna de talla
+            let tdTalla = document.createElement("td");
+            tdTalla.textContent = talla;
+            tdTalla.className = "px-4 py-2 text-center font-semibold text-gray-700 border border-gray-300"
+            tr.appendChild(tdTalla);
+
+            // Columnas por tienda
+            arr_tiendas.forEach(tienda => {
+                let td = document.createElement("td");
+                td.textContent = mapaTallas[talla][tienda] ?? 0; // si no existe, poner 0
+                td.className = "px-4 py-2 text-center font-semibold text-gray-700 uppercase tracking-wide border border-gray-300"
+                tr.appendChild(td);
+            });
+            tallas.appendChild(tr);
+        });
+    }
+
+    catch (error) {
+        console.log('Error al leer el archivo JSON:', error)
+    }
+}
+
+function cerrarCard(){
+    document.getElementById("stockCard").style.display = "none";
 }
 
 function Filtro(data, filter) {
