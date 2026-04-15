@@ -1,4 +1,4 @@
-let arr_Fras = ['642', '641', '640', '639', '638', '637', '636'];
+let arr_Fras = ['644', '643', '642', '641', '640', '639', '638', '637', '636'];
 let grid = document.getElementById('grid');
 let gridImg = document.getElementById('grid-img');
 let title = document.getElementById('title');
@@ -124,19 +124,19 @@ function muestraProducto(data) {
     }
 }
 
-function mostrarCard(sku){
+function mostrarCard(sku) {
     document.getElementById("stockCard").style.display = "block";
     document.getElementById("cardTitle").textContent = sku;
 
     let tiendas = document.getElementById("tiendas")
     let tallas = document.getElementById("tallas")
-    cargarDatosDos(tiendas,tallas,sku)
+    cargarDatosDos(tiendas, tallas, sku)
 }
 
-async function cargarDatosDos(tiendas,tallas,refe) {
+async function cargarDatosDos(tiendas, tallas, refe) {
     const arr_tiendas = ["F099", "F220", "F249", "F258"]
     try {
-        const response = await fetch("./json/stock/"+archivoJson);
+        const response = await fetch("./json/stock/" + archivoJson);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
 
@@ -169,7 +169,7 @@ async function cargarDatosDos(tiendas,tallas,refe) {
         });
 
         tallas.innerHTML = ""
-        Object.keys(mapaTallas).forEach((talla,index) => {
+        Object.keys(mapaTallas).forEach((talla, index) => {
             let tr = document.createElement("tr");
 
             tr.className = (index % 2 === 0) ? "bg-white hover:bg-gray-200" : "bg-gray-100 hover:bg-gray-200";
@@ -196,7 +196,7 @@ async function cargarDatosDos(tiendas,tallas,refe) {
     }
 }
 
-function cerrarCard(){
+function cerrarCard() {
     document.getElementById("stockCard").style.display = "none";
 }
 
