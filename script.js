@@ -13,7 +13,7 @@ let label_kids = document.getElementById('label_kids');
 let linksNav = document.querySelectorAll('#nav a[data-filter]');
 let listaFras = document.getElementById('lista-fras');
 let cont_woman = 0, cont_man = 0, cont_kids = 0;
-let linkImg = 'https://www.pre.desigual.com/dw/image/v2/BCVV_PRD/on/demandware.static/-/Sites-desigual-m-catalog/default/dw97ce96ee/images/B2C/';
+let linkImg = 'https://www.desigual.com/dw/image/v2/BCVV_PRD/on/demandware.static/-/Sites-desigual-m-catalog/default/dw97ce96ee/images/B2C/';
 
 
 arr_Fras.forEach(i => {
